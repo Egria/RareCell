@@ -124,6 +124,19 @@ add_executable(rarecell_reader
 target_link_libraries(rarecell_reader PUBLIC rarecell_filter)
 
 # ----------------------------------------
+# Library: metrics (Fano)
+# ----------------------------------------
+add_library(rarecell_metrics
+  src/metrics/fano.cpp
+)
+target_include_directories(rarecell_metrics PUBLIC src)
+target_link_libraries(rarecell_metrics PUBLIC MPI::MPI_CXX rarecell_filter)
+
+# Link metrics into the app
+target_link_libraries(rarecell_reader PUBLIC rarecell_metrics)
+
+
+# ----------------------------------------
 # (Optional) Install rules
 # ----------------------------------------
 # install(TARGETS rarecell_reader RUNTIME DESTINATION bin)
@@ -139,3 +152,4 @@ message(STATUS "HDF5 include dirs:  ${HDF5_INCLUDE_DIRS}")
 if(DEFINED HDF5_IS_PARALLEL)
   message(STATUS "HDF5 parallel I/O:  ${HDF5_IS_PARALLEL}")
 endif()
+

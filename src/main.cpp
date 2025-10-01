@@ -1,9 +1,13 @@
 #include <mpi.h>
 #include <iostream>
 #include <string>
+#include <fstream>
+#include <filesystem>
+#include <iomanip>                 // NEW: for formatting
 #include "io/h5ad_reader.hpp"
 #include "config/filter_config.hpp"
 #include "filter/filter.hpp"
+#include "metrics/fano.hpp"        // NEW
 
 using rarecell::H5ADReader;
 using rarecell::H5ADReadResult;
@@ -51,6 +55,32 @@ int main(int argc, char** argv) {
             << n_genes_keep << " genes, "
             << n_cells_local_keep << " cells, "
             << (int64_t)outs.X_local_filtered.data.size() << " nnz\n";
+
+        // -------- Compute Fano factors (exact) and print top 10 on rank 0 --------
+        auto fano_res = rarecell::compute_fano_all_genes(MPI_COMM_WORLD, outs);
+
+        if (rank == 0) {
+            auto top10 = rarecell::top_k_fano(outs.gene_names_filtered, fano_res.fano, 10);
+            std::cout << "\nTop 10 genes by Fano factor (N=" << fano_res.N_total << " cells):\n";
+            std::cout << std::left << std::setw(6) << "Rank"
+                << std::setw(24) << "Gene"
+                << "Fano\n";
+            for (std::size_t i = 0; i < top10.size(); ++i) {
+                std::cout << std::left << std::setw(6) << (i + 1)
+                    << std::setw(24) << top10[i].first
+                    << std::fixed << std::setprecision(6) << top10[i].second << "\n";
+            }
+
+            // Optional: write all Fano values to CSV
+            try {
+                std::ofstream csv(std::filesystem::path(cfg.output_folder) / "fano_all_genes.csv");
+                csv << "gene,fano\n";
+                for (std::size_t g = 0; g < outs.gene_names_filtered.size(); ++g) {
+                    csv << outs.gene_names_filtered[g] << "," << fano_res.fano[g] << "\n";
+                }
+            }
+            catch (...) {  } 
+        }
 
     }
     catch (const std::exception& e) {

@@ -165,7 +165,7 @@ build rarecell_filter.lib: CXX_STATIC_LIBRARY_LINKER__rarecell_filter_Release CM
 #############################################
 # Order-only phony target for rarecell_reader
 
-build cmake_object_order_depends_target_rarecell_reader: phony || cmake_object_order_depends_target_rarecell_cfg cmake_object_order_depends_target_rarecell_filter cmake_object_order_depends_target_rarecell_io
+build cmake_object_order_depends_target_rarecell_reader: phony || cmake_object_order_depends_target_rarecell_cfg cmake_object_order_depends_target_rarecell_filter cmake_object_order_depends_target_rarecell_io cmake_object_order_depends_target_rarecell_metrics
 
 build CMakeFiles\rarecell_reader.dir\src\main.cpp.obj: CXX_COMPILER__rarecell_reader_unscanned_Release C$:\Users\ned1_\Projects\RareCell\src\main.cpp || cmake_object_order_depends_target_rarecell_reader
   DEFINES = -DH5_BUILT_AS_DYNAMIC_LIB -DNOMINMAX -D_CRT_SECURE_NO_WARNINGS
@@ -184,9 +184,9 @@ build CMakeFiles\rarecell_reader.dir\src\main.cpp.obj: CXX_COMPILER__rarecell_re
 #############################################
 # Link the executable CMakeFiles\rarecell_reader.dir\cmake_device_link.obj
 
-build CMakeFiles\rarecell_reader.dir\cmake_device_link.obj: CXX_EXECUTABLE_DEVICE_LINKER__rarecell_reader_Release CMakeFiles\rarecell_reader.dir\src\main.cpp.obj | rarecell_filter.lib C$:\Program$ Files\NVIDIA$ GPU$ Computing$ Toolkit\CUDA\v13.0\lib\x64\cudart.lib rarecell_io.lib C$:\Program$ Files$ (x86)\Microsoft$ SDKs\MPI\Lib\x64\msmpi.lib C$:\Users\ned1_\anaconda3\Library\lib\hdf5_hl.lib C$:\Users\ned1_\anaconda3\Library\lib\hdf5.lib rarecell_cfg.lib || rarecell_cfg.lib rarecell_filter.lib rarecell_io.lib
+build CMakeFiles\rarecell_reader.dir\cmake_device_link.obj: CXX_EXECUTABLE_DEVICE_LINKER__rarecell_reader_Release CMakeFiles\rarecell_reader.dir\src\main.cpp.obj | rarecell_filter.lib rarecell_metrics.lib rarecell_filter.lib C$:\Program$ Files\NVIDIA$ GPU$ Computing$ Toolkit\CUDA\v13.0\lib\x64\cudart.lib rarecell_io.lib C$:\Users\ned1_\anaconda3\Library\lib\hdf5_hl.lib C$:\Users\ned1_\anaconda3\Library\lib\hdf5.lib rarecell_cfg.lib C$:\Program$ Files$ (x86)\Microsoft$ SDKs\MPI\Lib\x64\msmpi.lib || rarecell_cfg.lib rarecell_filter.lib rarecell_io.lib rarecell_metrics.lib
   LANGUAGE_COMPILE_FLAGS = -D_WINDOWS -Xcompiler=" /EHsc" -Xcompiler="-O2 -Ob2" -DNDEBUG "--generate-code=arch=compute_75,code=[compute_75,sm_75]" -Xcompiler=-MD
-  LINK_LIBRARIES = rarecell_filter.lib "C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v13.0\lib\x64\cudart.lib" rarecell_io.lib "C:\Program Files (x86)\Microsoft SDKs\MPI\Lib\x64\msmpi.lib" shlwapi.lib rarecell_cfg.lib cudadevrt.lib cudart.lib kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib
+  LINK_LIBRARIES = rarecell_filter.lib rarecell_metrics.lib "C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v13.0\lib\x64\cudart.lib" rarecell_io.lib shlwapi.lib rarecell_cfg.lib "C:\Program Files (x86)\Microsoft SDKs\MPI\Lib\x64\msmpi.lib" cudadevrt.lib cudart.lib kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib
   LINK_PATH = -LIBPATH:C:\PROGRA~1\NVIDIA~2\CUDA\v13.0\lib\x64
   OBJECT_DIR = CMakeFiles\rarecell_reader.dir
   TARGET_COMPILE_PDB = CMakeFiles\rarecell_reader.dir\
@@ -201,10 +201,10 @@ build CMakeFiles\rarecell_reader.dir\cmake_device_link.obj: CXX_EXECUTABLE_DEVIC
 #############################################
 # Link the executable rarecell_reader.exe
 
-build rarecell_reader.exe: CXX_EXECUTABLE_LINKER__rarecell_reader_Release CMakeFiles\rarecell_reader.dir\src\main.cpp.obj CMakeFiles\rarecell_reader.dir\cmake_device_link.obj | rarecell_filter.lib C$:\Program$ Files\NVIDIA$ GPU$ Computing$ Toolkit\CUDA\v13.0\lib\x64\cudart.lib rarecell_io.lib C$:\Program$ Files$ (x86)\Microsoft$ SDKs\MPI\Lib\x64\msmpi.lib C$:\Users\ned1_\anaconda3\Library\lib\hdf5_hl.lib C$:\Users\ned1_\anaconda3\Library\lib\hdf5.lib rarecell_cfg.lib || rarecell_cfg.lib rarecell_filter.lib rarecell_io.lib
+build rarecell_reader.exe: CXX_EXECUTABLE_LINKER__rarecell_reader_Release CMakeFiles\rarecell_reader.dir\src\main.cpp.obj CMakeFiles\rarecell_reader.dir\cmake_device_link.obj | rarecell_filter.lib rarecell_metrics.lib rarecell_filter.lib C$:\Program$ Files\NVIDIA$ GPU$ Computing$ Toolkit\CUDA\v13.0\lib\x64\cudart.lib rarecell_io.lib C$:\Users\ned1_\anaconda3\Library\lib\hdf5_hl.lib C$:\Users\ned1_\anaconda3\Library\lib\hdf5.lib rarecell_cfg.lib C$:\Program$ Files$ (x86)\Microsoft$ SDKs\MPI\Lib\x64\msmpi.lib || rarecell_cfg.lib rarecell_filter.lib rarecell_io.lib rarecell_metrics.lib
   FLAGS = /DWIN32 /D_WINDOWS /EHsc /O2 /Ob2 /DNDEBUG -MD
   LINK_FLAGS = /machine:x64 /INCREMENTAL:NO /subsystem:console
-  LINK_LIBRARIES = rarecell_filter.lib  "C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v13.0\lib\x64\cudart.lib"  rarecell_io.lib  "C:\Program Files (x86)\Microsoft SDKs\MPI\Lib\x64\msmpi.lib"  C:\Users\ned1_\anaconda3\Library\lib\hdf5_hl.lib  C:\Users\ned1_\anaconda3\Library\lib\hdf5.lib  shlwapi.lib  rarecell_cfg.lib  cudadevrt.lib  cudart.lib  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib
+  LINK_LIBRARIES = rarecell_filter.lib  rarecell_metrics.lib  rarecell_filter.lib  "C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v13.0\lib\x64\cudart.lib"  rarecell_io.lib  C:\Users\ned1_\anaconda3\Library\lib\hdf5_hl.lib  C:\Users\ned1_\anaconda3\Library\lib\hdf5.lib  shlwapi.lib  rarecell_cfg.lib  "C:\Program Files (x86)\Microsoft SDKs\MPI\Lib\x64\msmpi.lib"  cudadevrt.lib  cudart.lib  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib
   LINK_PATH = -LIBPATH:C:\PROGRA~1\NVIDIA~2\CUDA\v13.0\lib\x64
   OBJECT_DIR = CMakeFiles\rarecell_reader.dir
   POST_BUILD = C:\WINDOWS\system32\cmd.exe /C "cd /D C:\Users\ned1_\Projects\RareCell\build\x64-Release && C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -noprofile -executionpolicy Bypass -file "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/vcpkg/scripts/buildsystems/msbuild/applocal.ps1" -targetBinary C:/Users/ned1_/Projects/RareCell/build/x64-Release/rarecell_reader.exe -installedDir "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/vcpkg/installed/x64-windows/bin" -OutVariable out"
@@ -213,6 +213,58 @@ build rarecell_reader.exe: CXX_EXECUTABLE_LINKER__rarecell_reader_Release CMakeF
   TARGET_FILE = rarecell_reader.exe
   TARGET_IMPLIB = rarecell_reader.lib
   TARGET_PDB = rarecell_reader.pdb
+
+# =============================================================================
+# Object build statements for STATIC_LIBRARY target rarecell_metrics
+
+
+#############################################
+# Order-only phony target for rarecell_metrics
+
+build cmake_object_order_depends_target_rarecell_metrics: phony || cmake_object_order_depends_target_rarecell_cfg cmake_object_order_depends_target_rarecell_filter cmake_object_order_depends_target_rarecell_io
+
+build CMakeFiles\rarecell_metrics.dir\src\metrics\fano.cpp.obj: CXX_COMPILER__rarecell_metrics_unscanned_Release C$:\Users\ned1_\Projects\RareCell\src\metrics\fano.cpp || cmake_object_order_depends_target_rarecell_metrics
+  DEFINES = -DH5_BUILT_AS_DYNAMIC_LIB -DNOMINMAX -D_CRT_SECURE_NO_WARNINGS
+  FLAGS = /DWIN32 /D_WINDOWS /EHsc /O2 /Ob2 /DNDEBUG -std:c++17 -MD /bigobj /Zc:__cplusplus /permissive- /MP
+  INCLUDES = -IC:\Users\ned1_\Projects\RareCell\src -external:I"C:\Program Files (x86)\Microsoft SDKs\MPI\Include" -external:I"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v13.0\include" -external:I"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v13.0\include\cccl" -external:IC:\Users\ned1_\anaconda3\Library\include -external:W0
+  OBJECT_DIR = CMakeFiles\rarecell_metrics.dir
+  OBJECT_FILE_DIR = CMakeFiles\rarecell_metrics.dir\src\metrics
+  TARGET_COMPILE_PDB = CMakeFiles\rarecell_metrics.dir\rarecell_metrics.pdb
+  TARGET_PDB = rarecell_metrics.pdb
+
+
+# =============================================================================
+# Device Link build statements for STATIC_LIBRARY target rarecell_metrics
+
+
+#############################################
+# Link the static library CMakeFiles\rarecell_metrics.dir\cmake_device_link.obj
+
+build CMakeFiles\rarecell_metrics.dir\cmake_device_link.obj: CXX_STATIC_LIBRARY_DEVICE_LINKER__rarecell_metrics_Release CMakeFiles\rarecell_metrics.dir\src\metrics\fano.cpp.obj || rarecell_cfg.lib rarecell_filter.lib rarecell_io.lib
+  LANGUAGE_COMPILE_FLAGS = -D_WINDOWS -Xcompiler=" /EHsc" -Xcompiler="-O2 -Ob2" -DNDEBUG "--generate-code=arch=compute_75,code=[compute_75,sm_75]" -Xcompiler=-MD
+  LINK_LIBRARIES = rarecell_filter.lib "C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v13.0\lib\x64\cudart.lib" rarecell_io.lib "C:\Program Files (x86)\Microsoft SDKs\MPI\Lib\x64\msmpi.lib" shlwapi.lib rarecell_cfg.lib cudadevrt.lib cudart.lib kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib
+  LINK_PATH = -LIBPATH:C:\PROGRA~1\NVIDIA~2\CUDA\v13.0\lib\x64
+  OBJECT_DIR = CMakeFiles\rarecell_metrics.dir
+  TARGET_COMPILE_PDB = CMakeFiles\rarecell_metrics.dir\rarecell_metrics.pdb
+  TARGET_FILE = CMakeFiles\rarecell_metrics.dir\cmake_device_link.obj
+  TARGET_PDB = rarecell_metrics.pdb
+
+# =============================================================================
+# Link build statements for STATIC_LIBRARY target rarecell_metrics
+
+
+#############################################
+# Link the static library rarecell_metrics.lib
+
+build rarecell_metrics.lib: CXX_STATIC_LIBRARY_LINKER__rarecell_metrics_Release CMakeFiles\rarecell_metrics.dir\src\metrics\fano.cpp.obj CMakeFiles\rarecell_metrics.dir\cmake_device_link.obj || rarecell_cfg.lib rarecell_filter.lib rarecell_io.lib
+  LANGUAGE_COMPILE_FLAGS = /DWIN32 /D_WINDOWS /EHsc /O2 /Ob2 /DNDEBUG -MD
+  LINK_FLAGS = /machine:x64
+  OBJECT_DIR = CMakeFiles\rarecell_metrics.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_COMPILE_PDB = CMakeFiles\rarecell_metrics.dir\rarecell_metrics.pdb
+  TARGET_FILE = rarecell_metrics.lib
+  TARGET_PDB = rarecell_metrics.pdb
 
 
 #############################################
@@ -246,6 +298,8 @@ build rarecell_filter: phony rarecell_filter.lib
 
 build rarecell_io: phony rarecell_io.lib
 
+build rarecell_metrics: phony rarecell_metrics.lib
+
 build rarecell_reader: phony rarecell_reader.exe
 
 # =============================================================================
@@ -256,7 +310,7 @@ build rarecell_reader: phony rarecell_reader.exe
 #############################################
 # Folder: C:/Users/ned1_/Projects/RareCell/build/x64-Release
 
-build all: phony rarecell_io.lib rarecell_cfg.lib rarecell_filter.lib rarecell_reader.exe
+build all: phony rarecell_io.lib rarecell_cfg.lib rarecell_filter.lib rarecell_reader.exe rarecell_metrics.lib
 
 # =============================================================================
 # Built-in targets
