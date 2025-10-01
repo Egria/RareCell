@@ -1,0 +1,87 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Release-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"name" : "Release",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "rarecell",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "rarecell_cfg::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-rarecell_cfg-Release-0af0792287aed4300932.json",
+					"name" : "rarecell_cfg",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "rarecell_filter::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-rarecell_filter-Release-fbc40fdb762e8594cc62.json",
+					"name" : "rarecell_filter",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "rarecell_io::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-rarecell_io-Release-69ae65b828d33716bc73.json",
+					"name" : "rarecell_io",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "rarecell_reader::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-rarecell_reader-Release-ae6a4821b41dbf96fd71.json",
+					"name" : "rarecell_reader",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/ned1_/Projects/RareCell/build/x64-Release",
+		"source" : "C:/Users/ned1_/Projects/RareCell"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 8
+	}
+}

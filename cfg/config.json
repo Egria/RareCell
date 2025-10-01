@@ -1,0 +1,14 @@
+{
+  "expression_cutoff": 0.0,
+  "min_cells": 50,
+  "min_genes": 200,
+  "log2_cutoffl": -5.0,
+  "log2_cutoffh": 20.0,
+  "preprocess_method": "cpm",
+  "output_folder": "out_filter",
+  "write_dense_csv": false,
+  "write_coo_csv": false,
+  "remove_mir": true,
+  "gene_name_column": "Gene",
+  "cell_type_column": "cell_type"
+}
