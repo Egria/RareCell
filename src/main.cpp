@@ -8,6 +8,7 @@
 #include "config/filter_config.hpp"
 #include "filter/filter.hpp"
 #include "metrics/fano.hpp"        // NEW
+#include "metrics/gini.hpp"
 
 using rarecell::H5ADReader;
 using rarecell::H5ADReadResult;
@@ -81,6 +82,44 @@ int main(int argc, char** argv) {
             }
             catch (...) {  } 
         }
+
+        // -------- Compute exact Gini (raw integer counts) and print top 10 on rank 0 --------
+        auto gini_res = rarecell::compute_gini_raw_int_rank0(MPI_COMM_WORLD, R, outs);
+
+        if (rank == 0) {
+            auto top10g = rarecell::top_k_gini(outs.gene_names_filtered, gini_res.gini, 10);
+            std::cout << "\nTop 10 genes by Gini (N=" << gini_res.N_total << " cells):\n";
+            std::cout << std::left << std::setw(6) << "Rank"
+                << std::setw(24) << "Gene"
+                << "Gini\n";
+            for (std::size_t i = 0; i < top10g.size(); ++i) {
+                std::cout << std::left << std::setw(6) << (i + 1)
+                    << std::setw(24) << top10g[i].first
+                    << std::fixed << std::setprecision(6) << top10g[i].second << "\n";
+            }
+
+            // Optional: write all Gini values to CSV
+            try {
+                namespace fs = std::filesystem;
+                fs::path outdir = cfg.output_folder.empty() ? fs::path(".") : fs::path(cfg.output_folder);
+                std::error_code ec; fs::create_directories(outdir, ec);
+                fs::path csv_path = outdir / "gini_all_genes_rawint.csv";
+                std::ofstream csv(csv_path, std::ios::out | std::ios::trunc);
+                if (!csv) {
+                    std::cerr << "[rank 0] Warning: cannot open " << csv_path.string() << " for writing.\n";
+                }
+                else {
+                    csv << "gene,gini\n";
+                    for (std::size_t g = 0; g < gini_res.gini.size(); ++g) {
+                        csv << outs.gene_names_filtered[g] << "," << gini_res.gini[g] << "\n";
+                    }
+                }
+            }
+            catch (...) {
+                std::cerr << "[rank 0] Warning: exception while writing gini_all_genes_rawint.csv\n";
+            }
+        }
+
 
     }
     catch (const std::exception& e) {

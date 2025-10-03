@@ -887,3 +887,141 @@ events:
         
       exitCode: 0
 ...
+
+---
+events:
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/FindMPI.cmake:1283 (try_compile)"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/FindMPI.cmake:1327 (_MPI_try_staged_settings)"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/FindMPI.cmake:1650 (_MPI_check_lang_works)"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/vcpkg/scripts/buildsystems/vcpkg.cmake:893 (_find_package)"
+      - "CMakeLists.txt:36 (find_package)"
+    description: "The MPI test test_mpi for CXX in mode normal"
+    directories:
+      source: "C:/Users/ned1_/Projects/RareCell/build/x64-Release/CMakeFiles/CMakeScratch/TryCompile-bq0n45"
+      binary: "C:/Users/ned1_/Projects/RareCell/build/x64-Release/CMakeFiles/CMakeScratch/TryCompile-bq0n45"
+    cmakeVariables:
+      CMAKE_CUDA_ARCHITECTURES: "75"
+      CMAKE_CXX_FLAGS: "/DWIN32 /D_WINDOWS /EHsc"
+      CMAKE_CXX_FLAGS_DEBUG: "/Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_POSITION_INDEPENDENT_CODE: "ON"
+      VCPKG_INSTALLED_DIR: "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/vcpkg/installed"
+      VCPKG_PREFER_SYSTEM_LIBS: "OFF"
+      VCPKG_TARGET_TRIPLET: "x64-windows"
+      Z_VCPKG_ROOT_DIR: "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/vcpkg"
+    buildResult:
+      variable: "MPI_RESULT_CXX_test_mpi_normal"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/Users/ned1_/Projects/RareCell/build/x64-Release/CMakeFiles/CMakeScratch/TryCompile-bq0n45'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_87cfa
+        [1/2] C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1442~1.344\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP  -external:I"C:\\Program Files (x86)\\Microsoft SDKs\\MPI\\Include" -external:W0 /DWIN32 /D_WINDOWS /EHsc  /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /showIncludes /FoCMakeFiles\\cmTC_87cfa.dir\\test_mpi.cpp.obj /FdCMakeFiles\\cmTC_87cfa.dir\\ /FS -c C:\\Users\\ned1_\\Projects\\RareCell\\build\\x64-Release\\CMakeFiles\\CMakeScratch\\TryCompile-bq0n45\\test_mpi.cpp
+        [2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --msvc-ver=1942 --intdir=CMakeFiles\\cmTC_87cfa.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1442~1.344\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_87cfa.dir\\test_mpi.cpp.obj  /out:cmTC_87cfa.exe /implib:cmTC_87cfa.lib /pdb:cmTC_87cfa.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  "C:\\Program Files (x86)\\Microsoft SDKs\\MPI\\Lib\\x64\\msmpi.lib"  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        
+      exitCode: 0
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/FindMPI.cmake:1283 (try_compile)"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/FindMPI.cmake:1677 (_MPI_try_staged_settings)"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/vcpkg/scripts/buildsystems/vcpkg.cmake:893 (_find_package)"
+      - "CMakeLists.txt:36 (find_package)"
+    description: "The MPI test test_mpi for CXX in mode MPICXX"
+    directories:
+      source: "C:/Users/ned1_/Projects/RareCell/build/x64-Release/CMakeFiles/CMakeScratch/TryCompile-xm7bjg"
+      binary: "C:/Users/ned1_/Projects/RareCell/build/x64-Release/CMakeFiles/CMakeScratch/TryCompile-xm7bjg"
+    cmakeVariables:
+      CMAKE_CUDA_ARCHITECTURES: "75"
+      CMAKE_CXX_FLAGS: "/DWIN32 /D_WINDOWS /EHsc"
+      CMAKE_CXX_FLAGS_DEBUG: "/Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_POSITION_INDEPENDENT_CODE: "ON"
+      VCPKG_INSTALLED_DIR: "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/vcpkg/installed"
+      VCPKG_PREFER_SYSTEM_LIBS: "OFF"
+      VCPKG_TARGET_TRIPLET: "x64-windows"
+      Z_VCPKG_ROOT_DIR: "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/vcpkg"
+    buildResult:
+      variable: "MPI_RESULT_CXX_test_mpi_MPICXX"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/Users/ned1_/Projects/RareCell/build/x64-Release/CMakeFiles/CMakeScratch/TryCompile-xm7bjg'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_75f52
+        [1/2] C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1442~1.344\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP  -external:I"C:\\Program Files (x86)\\Microsoft SDKs\\MPI\\Include" -external:W0 /DWIN32 /D_WINDOWS /EHsc  /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /showIncludes /FoCMakeFiles\\cmTC_75f52.dir\\test_mpi.cpp.obj /FdCMakeFiles\\cmTC_75f52.dir\\ /FS -c C:\\Users\\ned1_\\Projects\\RareCell\\build\\x64-Release\\CMakeFiles\\CMakeScratch\\TryCompile-xm7bjg\\test_mpi.cpp
+        [2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --msvc-ver=1942 --intdir=CMakeFiles\\cmTC_75f52.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1442~1.344\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_75f52.dir\\test_mpi.cpp.obj  /out:cmTC_75f52.exe /implib:cmTC_75f52.lib /pdb:cmTC_75f52.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  "C:\\Program Files (x86)\\Microsoft SDKs\\MPI\\Lib\\x64\\msmpi.lib"  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        
+      exitCode: 0
+...
+
+---
+events:
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/FindMPI.cmake:1283 (try_compile)"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/FindMPI.cmake:1327 (_MPI_try_staged_settings)"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/FindMPI.cmake:1650 (_MPI_check_lang_works)"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/vcpkg/scripts/buildsystems/vcpkg.cmake:893 (_find_package)"
+      - "CMakeLists.txt:36 (find_package)"
+    description: "The MPI test test_mpi for CXX in mode normal"
+    directories:
+      source: "C:/Users/ned1_/Projects/RareCell/build/x64-Release/CMakeFiles/CMakeScratch/TryCompile-13bzxq"
+      binary: "C:/Users/ned1_/Projects/RareCell/build/x64-Release/CMakeFiles/CMakeScratch/TryCompile-13bzxq"
+    cmakeVariables:
+      CMAKE_CUDA_ARCHITECTURES: "75"
+      CMAKE_CXX_FLAGS: "/DWIN32 /D_WINDOWS /EHsc"
+      CMAKE_CXX_FLAGS_DEBUG: "/Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_POSITION_INDEPENDENT_CODE: "ON"
+      VCPKG_INSTALLED_DIR: "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/vcpkg/installed"
+      VCPKG_PREFER_SYSTEM_LIBS: "OFF"
+      VCPKG_TARGET_TRIPLET: "x64-windows"
+      Z_VCPKG_ROOT_DIR: "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/vcpkg"
+    buildResult:
+      variable: "MPI_RESULT_CXX_test_mpi_normal"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/Users/ned1_/Projects/RareCell/build/x64-Release/CMakeFiles/CMakeScratch/TryCompile-13bzxq'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_4bb28
+        [1/2] C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1442~1.344\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP  -external:I"C:\\Program Files (x86)\\Microsoft SDKs\\MPI\\Include" -external:W0 /DWIN32 /D_WINDOWS /EHsc  /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /showIncludes /FoCMakeFiles\\cmTC_4bb28.dir\\test_mpi.cpp.obj /FdCMakeFiles\\cmTC_4bb28.dir\\ /FS -c C:\\Users\\ned1_\\Projects\\RareCell\\build\\x64-Release\\CMakeFiles\\CMakeScratch\\TryCompile-13bzxq\\test_mpi.cpp
+        [2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --msvc-ver=1942 --intdir=CMakeFiles\\cmTC_4bb28.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1442~1.344\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_4bb28.dir\\test_mpi.cpp.obj  /out:cmTC_4bb28.exe /implib:cmTC_4bb28.lib /pdb:cmTC_4bb28.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  "C:\\Program Files (x86)\\Microsoft SDKs\\MPI\\Lib\\x64\\msmpi.lib"  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        
+      exitCode: 0
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/FindMPI.cmake:1283 (try_compile)"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/FindMPI.cmake:1677 (_MPI_try_staged_settings)"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/vcpkg/scripts/buildsystems/vcpkg.cmake:893 (_find_package)"
+      - "CMakeLists.txt:36 (find_package)"
+    description: "The MPI test test_mpi for CXX in mode MPICXX"
+    directories:
+      source: "C:/Users/ned1_/Projects/RareCell/build/x64-Release/CMakeFiles/CMakeScratch/TryCompile-5fgamz"
+      binary: "C:/Users/ned1_/Projects/RareCell/build/x64-Release/CMakeFiles/CMakeScratch/TryCompile-5fgamz"
+    cmakeVariables:
+      CMAKE_CUDA_ARCHITECTURES: "75"
+      CMAKE_CXX_FLAGS: "/DWIN32 /D_WINDOWS /EHsc"
+      CMAKE_CXX_FLAGS_DEBUG: "/Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_POSITION_INDEPENDENT_CODE: "ON"
+      VCPKG_INSTALLED_DIR: "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/vcpkg/installed"
+      VCPKG_PREFER_SYSTEM_LIBS: "OFF"
+      VCPKG_TARGET_TRIPLET: "x64-windows"
+      Z_VCPKG_ROOT_DIR: "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/vcpkg"
+    buildResult:
+      variable: "MPI_RESULT_CXX_test_mpi_MPICXX"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/Users/ned1_/Projects/RareCell/build/x64-Release/CMakeFiles/CMakeScratch/TryCompile-5fgamz'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_005fb
+        [1/2] C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1442~1.344\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP  -external:I"C:\\Program Files (x86)\\Microsoft SDKs\\MPI\\Include" -external:W0 /DWIN32 /D_WINDOWS /EHsc  /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /showIncludes /FoCMakeFiles\\cmTC_005fb.dir\\test_mpi.cpp.obj /FdCMakeFiles\\cmTC_005fb.dir\\ /FS -c C:\\Users\\ned1_\\Projects\\RareCell\\build\\x64-Release\\CMakeFiles\\CMakeScratch\\TryCompile-5fgamz\\test_mpi.cpp
+        [2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --msvc-ver=1942 --intdir=CMakeFiles\\cmTC_005fb.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1442~1.344\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_005fb.dir\\test_mpi.cpp.obj  /out:cmTC_005fb.exe /implib:cmTC_005fb.lib /pdb:cmTC_005fb.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  "C:\\Program Files (x86)\\Microsoft SDKs\\MPI\\Lib\\x64\\msmpi.lib"  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        
+      exitCode: 0
+...

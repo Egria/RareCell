@@ -232,6 +232,15 @@ build CMakeFiles\rarecell_metrics.dir\src\metrics\fano.cpp.obj: CXX_COMPILER__ra
   TARGET_COMPILE_PDB = CMakeFiles\rarecell_metrics.dir\rarecell_metrics.pdb
   TARGET_PDB = rarecell_metrics.pdb
 
+build CMakeFiles\rarecell_metrics.dir\src\metrics\gini.cpp.obj: CXX_COMPILER__rarecell_metrics_unscanned_Release C$:\Users\ned1_\Projects\RareCell\src\metrics\gini.cpp || cmake_object_order_depends_target_rarecell_metrics
+  DEFINES = -DH5_BUILT_AS_DYNAMIC_LIB -DNOMINMAX -D_CRT_SECURE_NO_WARNINGS
+  FLAGS = /DWIN32 /D_WINDOWS /EHsc /O2 /Ob2 /DNDEBUG -std:c++17 -MD /bigobj /Zc:__cplusplus /permissive- /MP
+  INCLUDES = -IC:\Users\ned1_\Projects\RareCell\src -external:I"C:\Program Files (x86)\Microsoft SDKs\MPI\Include" -external:I"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v13.0\include" -external:I"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v13.0\include\cccl" -external:IC:\Users\ned1_\anaconda3\Library\include -external:W0
+  OBJECT_DIR = CMakeFiles\rarecell_metrics.dir
+  OBJECT_FILE_DIR = CMakeFiles\rarecell_metrics.dir\src\metrics
+  TARGET_COMPILE_PDB = CMakeFiles\rarecell_metrics.dir\rarecell_metrics.pdb
+  TARGET_PDB = rarecell_metrics.pdb
+
 
 # =============================================================================
 # Device Link build statements for STATIC_LIBRARY target rarecell_metrics
@@ -240,7 +249,7 @@ build CMakeFiles\rarecell_metrics.dir\src\metrics\fano.cpp.obj: CXX_COMPILER__ra
 #############################################
 # Link the static library CMakeFiles\rarecell_metrics.dir\cmake_device_link.obj
 
-build CMakeFiles\rarecell_metrics.dir\cmake_device_link.obj: CXX_STATIC_LIBRARY_DEVICE_LINKER__rarecell_metrics_Release CMakeFiles\rarecell_metrics.dir\src\metrics\fano.cpp.obj || rarecell_cfg.lib rarecell_filter.lib rarecell_io.lib
+build CMakeFiles\rarecell_metrics.dir\cmake_device_link.obj: CXX_STATIC_LIBRARY_DEVICE_LINKER__rarecell_metrics_Release CMakeFiles\rarecell_metrics.dir\src\metrics\fano.cpp.obj CMakeFiles\rarecell_metrics.dir\src\metrics\gini.cpp.obj || rarecell_cfg.lib rarecell_filter.lib rarecell_io.lib
   LANGUAGE_COMPILE_FLAGS = -D_WINDOWS -Xcompiler=" /EHsc" -Xcompiler="-O2 -Ob2" -DNDEBUG "--generate-code=arch=compute_75,code=[compute_75,sm_75]" -Xcompiler=-MD
   LINK_LIBRARIES = rarecell_filter.lib "C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v13.0\lib\x64\cudart.lib" rarecell_io.lib "C:\Program Files (x86)\Microsoft SDKs\MPI\Lib\x64\msmpi.lib" shlwapi.lib rarecell_cfg.lib cudadevrt.lib cudart.lib kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib
   LINK_PATH = -LIBPATH:C:\PROGRA~1\NVIDIA~2\CUDA\v13.0\lib\x64
@@ -256,7 +265,7 @@ build CMakeFiles\rarecell_metrics.dir\cmake_device_link.obj: CXX_STATIC_LIBRARY_
 #############################################
 # Link the static library rarecell_metrics.lib
 
-build rarecell_metrics.lib: CXX_STATIC_LIBRARY_LINKER__rarecell_metrics_Release CMakeFiles\rarecell_metrics.dir\src\metrics\fano.cpp.obj CMakeFiles\rarecell_metrics.dir\cmake_device_link.obj || rarecell_cfg.lib rarecell_filter.lib rarecell_io.lib
+build rarecell_metrics.lib: CXX_STATIC_LIBRARY_LINKER__rarecell_metrics_Release CMakeFiles\rarecell_metrics.dir\src\metrics\fano.cpp.obj CMakeFiles\rarecell_metrics.dir\src\metrics\gini.cpp.obj CMakeFiles\rarecell_metrics.dir\cmake_device_link.obj || rarecell_cfg.lib rarecell_filter.lib rarecell_io.lib
   LANGUAGE_COMPILE_FLAGS = /DWIN32 /D_WINDOWS /EHsc /O2 /Ob2 /DNDEBUG -MD
   LINK_FLAGS = /machine:x64
   OBJECT_DIR = CMakeFiles\rarecell_metrics.dir
