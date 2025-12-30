@@ -109,6 +109,16 @@ rule CXX_EXECUTABLE_LINKER__rarecell_reader_Release
 
 
 #############################################
+# Rule for compiling CUDA files.
+
+rule CUDA_COMPILER__rarecell_metrics_unscanned_Release
+  depfile = $DEP_FILE
+  deps = gcc
+  command = ${LAUNCHER}${CODE_CHECK}C:\PROGRA~1\NVIDIA~2\CUDA\v13.0\bin\nvcc.exe -forward-unknown-to-host-compiler $DEFINES $INCLUDES $FLAGS -MD -MT $out -MF $DEP_FILE -x cu -c $in -o $out -Xcompiler=-Fd$TARGET_COMPILE_PDB,-FS
+  description = Building CUDA object $out
+
+
+#############################################
 # Rule for compiling CXX files.
 
 rule CXX_COMPILER__rarecell_metrics_unscanned_Release

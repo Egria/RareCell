@@ -82,7 +82,7 @@ events:
       
       The output was:
       0
-      #$ PATH=C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\bin\\HostX64\\x64;C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\bin\\HostX64\\x64;C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\VC\\VCPackages;C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\TestWindow;C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\TeamFoundation\\Team Explorer;C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\bin\\Roslyn;C:\\Program Files (x86)\\Microsoft SDKs\\Windows\\v10.0A\\bin\\NETFX 4.8 Tools\\x64\\;C:\\Program Files (x86)\\HTML Help Workshop;C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\FSharp\\Tools;C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Team Tools\\DiagnosticsHub\\Collector;C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\Llvm\\x64\\bin;C:\\Program Files (x86)\\Windows Kits\\10\\bin\\10.0.26100.0\\\\x64;C:\\Program Files (x86)\\Windows Kits\\10\\bin\\\\x64;C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\\\MSBuild\\Current\\Bin\\amd64;C:\\WINDOWS\\Microsoft.NET\\Framework64\\v4.0.30319;C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\;C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\Tools\\;C:\\Program Files\\Common Files\\Oracle\\Java\\javapath;C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v13.0\\bin\\x64;C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v13.0\\bin;C:\\Program Files\\Microsoft MPI\\Bin\\;C:\\WINDOWS\\system32;C:\\WINDOWS;C:\\WINDOWS\\System32\\Wbem;C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\;C:\\WINDOWS\\System32\\OpenSSH\\;C:\\Program Files\\R\\R-4.5.1\\bin;C:\\Users\\ned1_\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python313\\Scripts;C:\\Program Files\\Git\\cmd;C:\\Program Files\\NVIDIA Corporation\\Nsight Compute 2025.3.0\\;C:\\Program Files\\Microsoft SQL Server\\150\\Tools\\Binn\\;C:\\Program Files\\Microsoft SQL Server\\Client SDK\\ODBC\\170\\Tools\\Binn\\;C:\\Program Files\\dotnet\\;C:\\Program Files\\Vim\\vim91;C:\\Program Files (x86)\\Incredibuild;C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance Toolkit\\;C:\\Program Files\\Docker\\Docker\\resources\\bin;C:\\Users\\ned1_\\anaconda3;C:\\Users\\ned1_\\anaconda3\\Library\\mingw-w64\\bin;C:\\Users\\ned1_\\anaconda3\\Library\\usr\\bin;C:\\Users\\ned1_\\anaconda3\\Library\\bin;C:\\Users\\ned1_\\anaconda3\\Scripts;C:\\Users\\ned1_\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Users\\ned1_\\.dotnet\\tools;C:\\Users\\ned1_\\AppData\\Local\\Programs\\Microsoft VS Code\\bin;C:\\Program Files\\JetBrains\\PyCharm 2025.2.0.1\\bin;C:\\Users\\ned1_\\AppData\\Local\\GitHubDesktop\\bin;C:\\Users\\ned1_\\AppData\\Local\\Programs\\Ollama;C:\\Users\\ned1_\\AppData\\Local\\Microsoft\\WinGet\\Packages\\ggml.llamacpp_Microsoft.Winget.Source_8wekyb3d8bbwe;;C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin;C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\Ninja;C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\VC\\Linux\\bin\\ConnectionManagerExe;C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\vcpkg
+      #$ PATH=C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\bin\\HostX64\\x64;C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\bin\\HostX64\\x64;C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\VC\\VCPackages;C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\TestWindow;C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\TeamFoundation\\Team Explorer;C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\bin\\Roslyn;C:\\Program Files (x86)\\Microsoft SDKs\\Windows\\v10.0A\\bin\\NETFX 4.8 Tools\\x64\\;C:\\Program Files (x86)\\HTML Help Workshop;C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\FSharp\\Tools;C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Team Tools\\DiagnosticsHub\\Collector;C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\Llvm\\x64\\bin;C:\\Program Files (x86)\\Windows Kits\\10\\bin\\10.0.26100.0\\\\x64;C:\\Program Files (x86)\\Windows Kits\\10\\bin\\\\x64;C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\\\MSBuild\\Current\\Bin\\amd64;C:\\WINDOWS\\Microsoft.NET\\Framework64\\v4.0.30319;C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\;C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\Tools\\;C:\\Program Files\\Common Files\\Oracle\\Java\\javapath;C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v13.0\\bin\\x64;C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v13.0\\bin;C:\\Program Files\\Microsoft MPI\\Bin\\;C:\\WINDOWS\\system32;C:\\WINDOWS;C:\\WINDOWS\\System32\\Wbem;C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\;C:\\WINDOWS\\System32\\OpenSSH\\;C:\\Program Files\\R\\R-4.5.1\\bin;C:\\Users\\ned1_\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python313\\Scripts;C:\\Program Files\\Git\\cmd;C:\\Program Files\\NVIDIA Corporation\\Nsight Compute 2025.3.0\\;C:\\Program Files\\Microsoft SQL Server\\150\\Tools\\Binn\\;C:\\Program Files\\Microsoft SQL Server\\Client SDK\\ODBC\\170\\Tools\\Binn\\;C:\\Program Files\\dotnet\\;C:\\Program Files\\Vim\\vim91;C:\\Program Files (x86)\\Incredibuild;C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance Toolkit\\;C:\\Program Files\\Docker\\Docker\\resources\\bin;C:\\ProgramData\\chocolatey\\bin;C:\\Program Files\\HDF_Group\\HDF5\\2.0.0\\bin\\;C:\\Users\\ned1_\\AppData\\Local\\Programs\\Python\\Python313\\Scripts\\;C:\\Users\\ned1_\\AppData\\Local\\Programs\\Python\\Python313\\;C:\\Users\\ned1_\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Users\\ned1_\\.dotnet\\tools;C:\\Users\\ned1_\\AppData\\Local\\Programs\\Microsoft VS Code\\bin;C:\\Program Files\\JetBrains\\PyCharm 2025.2.0.1\\bin;C:\\Users\\ned1_\\AppData\\Local\\GitHubDesktop\\bin;C:\\Users\\ned1_\\AppData\\Local\\Programs\\Ollama;C:\\Users\\ned1_\\AppData\\Local\\Microsoft\\WinGet\\Packages\\ggml.llamacpp_Microsoft.Winget.Source_8wekyb3d8bbwe;C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64;;C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin;C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\Ninja;C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\VC\\Linux\\bin\\ConnectionManagerExe;C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\vcpkg
       #$ _NVVM_BRANCH_=nvvm
       #$ _SPACE_= 
       #$ _CUDART_=cudart
@@ -95,7 +95,7 @@ events:
       #$ TOP=C:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v13.0/bin/..
       #$ CICC_PATH=C:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v13.0/bin/../nvvm/bin
       #$ NVVMIR_LIBRARY_DIR=C:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v13.0/bin/../nvvm/libdevice
-      #$ PATH=C:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v13.0/bin/../nvvm/bin;C:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v13.0/bin;C:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v13.0/bin/../lib;C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\bin\\HostX64\\x64;C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\bin\\HostX64\\x64;C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\VC\\VCPackages;C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\TestWindow;C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\TeamFoundation\\Team Explorer;C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\bin\\Roslyn;C:\\Program Files (x86)\\Microsoft SDKs\\Windows\\v10.0A\\bin\\NETFX 4.8 Tools\\x64\\;C:\\Program Files (x86)\\HTML Help Workshop;C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\FSharp\\Tools;C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Team Tools\\DiagnosticsHub\\Collector;C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\Llvm\\x64\\bin;C:\\Program Files (x86)\\Windows Kits\\10\\bin\\10.0.26100.0\\\\x64;C:\\Program Files (x86)\\Windows Kits\\10\\bin\\\\x64;C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\\\MSBuild\\Current\\Bin\\amd64;C:\\WINDOWS\\Microsoft.NET\\Framework64\\v4.0.30319;C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\;C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\Tools\\;C:\\Program Files\\Common Files\\Oracle\\Java\\javapath;C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v13.0\\bin\\x64;C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v13.0\\bin;C:\\Program Files\\Microsoft MPI\\Bin\\;C:\\WINDOWS\\system32;C:\\WINDOWS;C:\\WINDOWS\\System32\\Wbem;C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\;C:\\WINDOWS\\System32\\OpenSSH\\;C:\\Program Files\\R\\R-4.5.1\\bin;C:\\Users\\ned1_\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python313\\Scripts;C:\\Program Files\\Git\\cmd;C:\\Program Files\\NVIDIA Corporation\\Nsight Compute 2025.3.0\\;C:\\Program Files\\Microsoft SQL Server\\150\\Tools\\Binn\\;C:\\Program Files\\Microsoft SQL Server\\Client SDK\\ODBC\\170\\Tools\\Binn\\;C:\\Program Files\\dotnet\\;C:\\Program Files\\Vim\\vim91;C:\\Program Files (x86)\\Incredibuild;C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance Toolkit\\;C:\\Program Files\\Docker\\Docker\\resources\\bin;C:\\Users\\ned1_\\anaconda3;C:\\Users\\ned1_\\anaconda3\\Library\\mingw-w64\\bin;C:\\Users\\ned1_\\anaconda3\\Library\\usr\\bin;C:\\Users\\ned1_\\anaconda3\\Library\\bin;C:\\Users\\ned1_\\anaconda3\\Scripts;C:\\Users\\ned1_\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Users\\ned1_\\.dotnet\\tools;C:\\Users\\ned1_\\AppData\\Local\\Programs\\Microsoft VS Code\\bin;C:\\Program Files\\JetBrains\\PyCharm 2025.2.0.1\\bin;C:\\Users\\ned1_\\AppData\\Local\\GitHubDesktop\\bin;C:\\Users\\ned1_\\AppData\\Local\\Programs\\Ollama;C:\\Users\\ned1_\\AppData\\Local\\Microsoft\\WinGet\\Packages\\ggml.llamacpp_Microsoft.Winget.Source_8wekyb3d8bbwe;;C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin;C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\Ninja;C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\VC\\Linux\\bin\\ConnectionManagerExe;C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\vcpkg
+      #$ PATH=C:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v13.0/bin/../nvvm/bin;C:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v13.0/bin;C:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v13.0/bin/../lib;C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\bin\\HostX64\\x64;C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\bin\\HostX64\\x64;C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\VC\\VCPackages;C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\TestWindow;C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\TeamFoundation\\Team Explorer;C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\bin\\Roslyn;C:\\Program Files (x86)\\Microsoft SDKs\\Windows\\v10.0A\\bin\\NETFX 4.8 Tools\\x64\\;C:\\Program Files (x86)\\HTML Help Workshop;C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\FSharp\\Tools;C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Team Tools\\DiagnosticsHub\\Collector;C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\Llvm\\x64\\bin;C:\\Program Files (x86)\\Windows Kits\\10\\bin\\10.0.26100.0\\\\x64;C:\\Program Files (x86)\\Windows Kits\\10\\bin\\\\x64;C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\\\MSBuild\\Current\\Bin\\amd64;C:\\WINDOWS\\Microsoft.NET\\Framework64\\v4.0.30319;C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\;C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\Tools\\;C:\\Program Files\\Common Files\\Oracle\\Java\\javapath;C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v13.0\\bin\\x64;C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v13.0\\bin;C:\\Program Files\\Microsoft MPI\\Bin\\;C:\\WINDOWS\\system32;C:\\WINDOWS;C:\\WINDOWS\\System32\\Wbem;C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\;C:\\WINDOWS\\System32\\OpenSSH\\;C:\\Program Files\\R\\R-4.5.1\\bin;C:\\Users\\ned1_\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python313\\Scripts;C:\\Program Files\\Git\\cmd;C:\\Program Files\\NVIDIA Corporation\\Nsight Compute 2025.3.0\\;C:\\Program Files\\Microsoft SQL Server\\150\\Tools\\Binn\\;C:\\Program Files\\Microsoft SQL Server\\Client SDK\\ODBC\\170\\Tools\\Binn\\;C:\\Program Files\\dotnet\\;C:\\Program Files\\Vim\\vim91;C:\\Program Files (x86)\\Incredibuild;C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance Toolkit\\;C:\\Program Files\\Docker\\Docker\\resources\\bin;C:\\ProgramData\\chocolatey\\bin;C:\\Program Files\\HDF_Group\\HDF5\\2.0.0\\bin\\;C:\\Users\\ned1_\\AppData\\Local\\Programs\\Python\\Python313\\Scripts\\;C:\\Users\\ned1_\\AppData\\Local\\Programs\\Python\\Python313\\;C:\\Users\\ned1_\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Users\\ned1_\\.dotnet\\tools;C:\\Users\\ned1_\\AppData\\Local\\Programs\\Microsoft VS Code\\bin;C:\\Program Files\\JetBrains\\PyCharm 2025.2.0.1\\bin;C:\\Users\\ned1_\\AppData\\Local\\GitHubDesktop\\bin;C:\\Users\\ned1_\\AppData\\Local\\Programs\\Ollama;C:\\Users\\ned1_\\AppData\\Local\\Microsoft\\WinGet\\Packages\\ggml.llamacpp_Microsoft.Winget.Source_8wekyb3d8bbwe;C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64;;C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin;C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\Ninja;C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\VC\\Linux\\bin\\ConnectionManagerExe;C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\vcpkg
       #$ INCLUDES="-IC:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v13.0/bin/../include" "-IC:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v13.0/bin/../include/cccl"  
       #$ SYSTEM_INCLUDES= 
       #$ LIBRARIES=  "/LIBPATH:C:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v13.0/bin/../lib/x64"
@@ -162,7 +162,7 @@ events:
       - "CMakeLists.txt:2 (project)"
     message: |
       Parsed CUDA nvcc implicit link information:
-        found 'PATH=' string: [C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\bin\\HostX64\\x64;C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\bin\\HostX64\\x64;C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\VC\\VCPackages;C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\TestWindow;C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\TeamFoundation\\Team Explorer;C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\bin\\Roslyn;C:\\Program Files (x86)\\Microsoft SDKs\\Windows\\v10.0A\\bin\\NETFX 4.8 Tools\\x64\\;C:\\Program Files (x86)\\HTML Help Workshop;C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\FSharp\\Tools;C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Team Tools\\DiagnosticsHub\\Collector;C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\Llvm\\x64\\bin;C:\\Program Files (x86)\\Windows Kits\\10\\bin\\10.0.26100.0\\\\x64;C:\\Program Files (x86)\\Windows Kits\\10\\bin\\\\x64;C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\\\MSBuild\\Current\\Bin\\amd64;C:\\WINDOWS\\Microsoft.NET\\Framework64\\v4.0.30319;C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\;C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\Tools\\;C:\\Program Files\\Common Files\\Oracle\\Java\\javapath;C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v13.0\\bin\\x64;C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v13.0\\bin;C:\\Program Files\\Microsoft MPI\\Bin\\;C:\\WINDOWS\\system32;C:\\WINDOWS;C:\\WINDOWS\\System32\\Wbem;C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\;C:\\WINDOWS\\System32\\OpenSSH\\;C:\\Program Files\\R\\R-4.5.1\\bin;C:\\Users\\ned1_\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python313\\Scripts;C:\\Program Files\\Git\\cmd;C:\\Program Files\\NVIDIA Corporation\\Nsight Compute 2025.3.0\\;C:\\Program Files\\Microsoft SQL Server\\150\\Tools\\Binn\\;C:\\Program Files\\Microsoft SQL Server\\Client SDK\\ODBC\\170\\Tools\\Binn\\;C:\\Program Files\\dotnet\\;C:\\Program Files\\Vim\\vim91;C:\\Program Files (x86)\\Incredibuild;C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance Toolkit\\;C:\\Program Files\\Docker\\Docker\\resources\\bin;C:\\Users\\ned1_\\anaconda3;C:\\Users\\ned1_\\anaconda3\\Library\\mingw-w64\\bin;C:\\Users\\ned1_\\anaconda3\\Library\\usr\\bin;C:\\Users\\ned1_\\anaconda3\\Library\\bin;C:\\Users\\ned1_\\anaconda3\\Scripts;C:\\Users\\ned1_\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Users\\ned1_\\.dotnet\\tools;C:\\Users\\ned1_\\AppData\\Local\\Programs\\Microsoft VS Code\\bin;C:\\Program Files\\JetBrains\\PyCharm 2025.2.0.1\\bin;C:\\Users\\ned1_\\AppData\\Local\\GitHubDesktop\\bin;C:\\Users\\ned1_\\AppData\\Local\\Programs\\Ollama;C:\\Users\\ned1_\\AppData\\Local\\Microsoft\\WinGet\\Packages\\ggml.llamacpp_Microsoft.Winget.Source_8wekyb3d8bbwe;;C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin;C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\Ninja;C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\VC\\Linux\\bin\\ConnectionManagerExe;C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\vcpkg]
+        found 'PATH=' string: [C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\bin\\HostX64\\x64;C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\bin\\HostX64\\x64;C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\VC\\VCPackages;C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\TestWindow;C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\TeamFoundation\\Team Explorer;C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\bin\\Roslyn;C:\\Program Files (x86)\\Microsoft SDKs\\Windows\\v10.0A\\bin\\NETFX 4.8 Tools\\x64\\;C:\\Program Files (x86)\\HTML Help Workshop;C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\FSharp\\Tools;C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Team Tools\\DiagnosticsHub\\Collector;C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\Llvm\\x64\\bin;C:\\Program Files (x86)\\Windows Kits\\10\\bin\\10.0.26100.0\\\\x64;C:\\Program Files (x86)\\Windows Kits\\10\\bin\\\\x64;C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\\\MSBuild\\Current\\Bin\\amd64;C:\\WINDOWS\\Microsoft.NET\\Framework64\\v4.0.30319;C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\;C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\Tools\\;C:\\Program Files\\Common Files\\Oracle\\Java\\javapath;C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v13.0\\bin\\x64;C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v13.0\\bin;C:\\Program Files\\Microsoft MPI\\Bin\\;C:\\WINDOWS\\system32;C:\\WINDOWS;C:\\WINDOWS\\System32\\Wbem;C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\;C:\\WINDOWS\\System32\\OpenSSH\\;C:\\Program Files\\R\\R-4.5.1\\bin;C:\\Users\\ned1_\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python313\\Scripts;C:\\Program Files\\Git\\cmd;C:\\Program Files\\NVIDIA Corporation\\Nsight Compute 2025.3.0\\;C:\\Program Files\\Microsoft SQL Server\\150\\Tools\\Binn\\;C:\\Program Files\\Microsoft SQL Server\\Client SDK\\ODBC\\170\\Tools\\Binn\\;C:\\Program Files\\dotnet\\;C:\\Program Files\\Vim\\vim91;C:\\Program Files (x86)\\Incredibuild;C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance Toolkit\\;C:\\Program Files\\Docker\\Docker\\resources\\bin;C:\\ProgramData\\chocolatey\\bin;C:\\Program Files\\HDF_Group\\HDF5\\2.0.0\\bin\\;C:\\Users\\ned1_\\AppData\\Local\\Programs\\Python\\Python313\\Scripts\\;C:\\Users\\ned1_\\AppData\\Local\\Programs\\Python\\Python313\\;C:\\Users\\ned1_\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Users\\ned1_\\.dotnet\\tools;C:\\Users\\ned1_\\AppData\\Local\\Programs\\Microsoft VS Code\\bin;C:\\Program Files\\JetBrains\\PyCharm 2025.2.0.1\\bin;C:\\Users\\ned1_\\AppData\\Local\\GitHubDesktop\\bin;C:\\Users\\ned1_\\AppData\\Local\\Programs\\Ollama;C:\\Users\\ned1_\\AppData\\Local\\Microsoft\\WinGet\\Packages\\ggml.llamacpp_Microsoft.Winget.Source_8wekyb3d8bbwe;C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64;;C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin;C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\Ninja;C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\VC\\Linux\\bin\\ConnectionManagerExe;C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\vcpkg]
         found 'LIBRARIES=' string: ["/LIBPATH:C:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v13.0/bin/../lib/x64"]
         found 'INCLUDES=' string: ["-IC:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v13.0/bin/../include" "-IC:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v13.0/bin/../include/cccl"  ]
         considering line: [#$ erase tmp/a_dlink.reg.c]
@@ -223,7 +223,7 @@ events:
       - "CMakeLists.txt:2 (project)"
     message: |
       Parsed CUDA nvcc include information:
-        found 'PATH=' string: [C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\bin\\HostX64\\x64;C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\bin\\HostX64\\x64;C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\VC\\VCPackages;C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\TestWindow;C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\TeamFoundation\\Team Explorer;C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\bin\\Roslyn;C:\\Program Files (x86)\\Microsoft SDKs\\Windows\\v10.0A\\bin\\NETFX 4.8 Tools\\x64\\;C:\\Program Files (x86)\\HTML Help Workshop;C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\FSharp\\Tools;C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Team Tools\\DiagnosticsHub\\Collector;C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\Llvm\\x64\\bin;C:\\Program Files (x86)\\Windows Kits\\10\\bin\\10.0.26100.0\\\\x64;C:\\Program Files (x86)\\Windows Kits\\10\\bin\\\\x64;C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\\\MSBuild\\Current\\Bin\\amd64;C:\\WINDOWS\\Microsoft.NET\\Framework64\\v4.0.30319;C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\;C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\Tools\\;C:\\Program Files\\Common Files\\Oracle\\Java\\javapath;C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v13.0\\bin\\x64;C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v13.0\\bin;C:\\Program Files\\Microsoft MPI\\Bin\\;C:\\WINDOWS\\system32;C:\\WINDOWS;C:\\WINDOWS\\System32\\Wbem;C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\;C:\\WINDOWS\\System32\\OpenSSH\\;C:\\Program Files\\R\\R-4.5.1\\bin;C:\\Users\\ned1_\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python313\\Scripts;C:\\Program Files\\Git\\cmd;C:\\Program Files\\NVIDIA Corporation\\Nsight Compute 2025.3.0\\;C:\\Program Files\\Microsoft SQL Server\\150\\Tools\\Binn\\;C:\\Program Files\\Microsoft SQL Server\\Client SDK\\ODBC\\170\\Tools\\Binn\\;C:\\Program Files\\dotnet\\;C:\\Program Files\\Vim\\vim91;C:\\Program Files (x86)\\Incredibuild;C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance Toolkit\\;C:\\Program Files\\Docker\\Docker\\resources\\bin;C:\\Users\\ned1_\\anaconda3;C:\\Users\\ned1_\\anaconda3\\Library\\mingw-w64\\bin;C:\\Users\\ned1_\\anaconda3\\Library\\usr\\bin;C:\\Users\\ned1_\\anaconda3\\Library\\bin;C:\\Users\\ned1_\\anaconda3\\Scripts;C:\\Users\\ned1_\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Users\\ned1_\\.dotnet\\tools;C:\\Users\\ned1_\\AppData\\Local\\Programs\\Microsoft VS Code\\bin;C:\\Program Files\\JetBrains\\PyCharm 2025.2.0.1\\bin;C:\\Users\\ned1_\\AppData\\Local\\GitHubDesktop\\bin;C:\\Users\\ned1_\\AppData\\Local\\Programs\\Ollama;C:\\Users\\ned1_\\AppData\\Local\\Microsoft\\WinGet\\Packages\\ggml.llamacpp_Microsoft.Winget.Source_8wekyb3d8bbwe;;C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin;C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\Ninja;C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\VC\\Linux\\bin\\ConnectionManagerExe;C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\vcpkg]
+        found 'PATH=' string: [C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\bin\\HostX64\\x64;C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\bin\\HostX64\\x64;C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\VC\\VCPackages;C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\TestWindow;C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\TeamFoundation\\Team Explorer;C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\bin\\Roslyn;C:\\Program Files (x86)\\Microsoft SDKs\\Windows\\v10.0A\\bin\\NETFX 4.8 Tools\\x64\\;C:\\Program Files (x86)\\HTML Help Workshop;C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\FSharp\\Tools;C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Team Tools\\DiagnosticsHub\\Collector;C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\Llvm\\x64\\bin;C:\\Program Files (x86)\\Windows Kits\\10\\bin\\10.0.26100.0\\\\x64;C:\\Program Files (x86)\\Windows Kits\\10\\bin\\\\x64;C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\\\MSBuild\\Current\\Bin\\amd64;C:\\WINDOWS\\Microsoft.NET\\Framework64\\v4.0.30319;C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\;C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\Tools\\;C:\\Program Files\\Common Files\\Oracle\\Java\\javapath;C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v13.0\\bin\\x64;C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v13.0\\bin;C:\\Program Files\\Microsoft MPI\\Bin\\;C:\\WINDOWS\\system32;C:\\WINDOWS;C:\\WINDOWS\\System32\\Wbem;C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\;C:\\WINDOWS\\System32\\OpenSSH\\;C:\\Program Files\\R\\R-4.5.1\\bin;C:\\Users\\ned1_\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python313\\Scripts;C:\\Program Files\\Git\\cmd;C:\\Program Files\\NVIDIA Corporation\\Nsight Compute 2025.3.0\\;C:\\Program Files\\Microsoft SQL Server\\150\\Tools\\Binn\\;C:\\Program Files\\Microsoft SQL Server\\Client SDK\\ODBC\\170\\Tools\\Binn\\;C:\\Program Files\\dotnet\\;C:\\Program Files\\Vim\\vim91;C:\\Program Files (x86)\\Incredibuild;C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance Toolkit\\;C:\\Program Files\\Docker\\Docker\\resources\\bin;C:\\ProgramData\\chocolatey\\bin;C:\\Program Files\\HDF_Group\\HDF5\\2.0.0\\bin\\;C:\\Users\\ned1_\\AppData\\Local\\Programs\\Python\\Python313\\Scripts\\;C:\\Users\\ned1_\\AppData\\Local\\Programs\\Python\\Python313\\;C:\\Users\\ned1_\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Users\\ned1_\\.dotnet\\tools;C:\\Users\\ned1_\\AppData\\Local\\Programs\\Microsoft VS Code\\bin;C:\\Program Files\\JetBrains\\PyCharm 2025.2.0.1\\bin;C:\\Users\\ned1_\\AppData\\Local\\GitHubDesktop\\bin;C:\\Users\\ned1_\\AppData\\Local\\Programs\\Ollama;C:\\Users\\ned1_\\AppData\\Local\\Microsoft\\WinGet\\Packages\\ggml.llamacpp_Microsoft.Winget.Source_8wekyb3d8bbwe;C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64;;C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin;C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\Ninja;C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\VC\\Linux\\bin\\ConnectionManagerExe;C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\vcpkg]
         found 'LIBRARIES=' string: ["/LIBPATH:C:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v13.0/bin/../lib/x64"]
         found 'INCLUDES=' string: ["-IC:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v13.0/bin/../include" "-IC:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v13.0/bin/../include/cccl"  ]
         considering line: [#$ erase tmp/a_dlink.reg.c]
@@ -285,27 +285,27 @@ events:
     checks:
       - "Detecting CXX compiler ABI info"
     directories:
-      source: "C:/Users/ned1_/Projects/RareCell/build/x64-Release/CMakeFiles/CMakeScratch/TryCompile-0onsnb"
-      binary: "C:/Users/ned1_/Projects/RareCell/build/x64-Release/CMakeFiles/CMakeScratch/TryCompile-0onsnb"
+      source: "C:/Users/ned1_/Projects/RareCell/build/x64-Release/CMakeFiles/CMakeScratch/TryCompile-7h43us"
+      binary: "C:/Users/ned1_/Projects/RareCell/build/x64-Release/CMakeFiles/CMakeScratch/TryCompile-7h43us"
     cmakeVariables:
       CMAKE_CUDA_ARCHITECTURES: "75"
       CMAKE_CXX_FLAGS: "/DWIN32 /D_WINDOWS /EHsc"
       CMAKE_CXX_FLAGS_DEBUG: "/Zi /Ob0 /Od /RTC1"
       CMAKE_CXX_SCAN_FOR_MODULES: "OFF"
       CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
-      VCPKG_INSTALLED_DIR: "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/vcpkg/installed"
+      VCPKG_INSTALLED_DIR: "C:/dev/vcpkg/installed"
       VCPKG_PREFER_SYSTEM_LIBS: "OFF"
       VCPKG_TARGET_TRIPLET: "x64-windows"
-      Z_VCPKG_ROOT_DIR: "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/vcpkg"
+      Z_VCPKG_ROOT_DIR: "C:/dev/vcpkg"
     buildResult:
       variable: "CMAKE_CXX_ABI_COMPILED"
       cached: true
       stdout: |
-        Change Dir: 'C:/Users/ned1_/Projects/RareCell/build/x64-Release/CMakeFiles/CMakeScratch/TryCompile-0onsnb'
+        Change Dir: 'C:/Users/ned1_/Projects/RareCell/build/x64-Release/CMakeFiles/CMakeScratch/TryCompile-7h43us'
         
-        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_72e13
-        [1/2] C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1442~1.344\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP   /DWIN32 /D_WINDOWS /EHsc  /Zi /Ob0 /Od /RTC1 -MDd /showIncludes /FoCMakeFiles\\cmTC_72e13.dir\\CMakeCXXCompilerABI.cpp.obj /FdCMakeFiles\\cmTC_72e13.dir\\ /FS -c "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\share\\cmake-3.31\\Modules\\CMakeCXXCompilerABI.cpp"
-        [2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --msvc-ver=1942 --intdir=CMakeFiles\\cmTC_72e13.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1442~1.344\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_72e13.dir\\CMakeCXXCompilerABI.cpp.obj  /out:cmTC_72e13.exe /implib:cmTC_72e13.lib /pdb:cmTC_72e13.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_415a1
+        [1/2] C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1442~1.344\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP   /DWIN32 /D_WINDOWS /EHsc  /Zi /Ob0 /Od /RTC1 -MDd /showIncludes /FoCMakeFiles\\cmTC_415a1.dir\\CMakeCXXCompilerABI.cpp.obj /FdCMakeFiles\\cmTC_415a1.dir\\ /FS -c "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\share\\cmake-3.31\\Modules\\CMakeCXXCompilerABI.cpp"
+        [2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --msvc-ver=1942 --intdir=CMakeFiles\\cmTC_415a1.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1442~1.344\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_415a1.dir\\CMakeCXXCompilerABI.cpp.obj  /out:cmTC_415a1.exe /implib:cmTC_415a1.lib /pdb:cmTC_415a1.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
         
       exitCode: 0
   -
@@ -345,35 +345,35 @@ events:
     checks:
       - "Detecting CUDA compiler ABI info"
     directories:
-      source: "C:/Users/ned1_/Projects/RareCell/build/x64-Release/CMakeFiles/CMakeScratch/TryCompile-ebm4u2"
-      binary: "C:/Users/ned1_/Projects/RareCell/build/x64-Release/CMakeFiles/CMakeScratch/TryCompile-ebm4u2"
+      source: "C:/Users/ned1_/Projects/RareCell/build/x64-Release/CMakeFiles/CMakeScratch/TryCompile-n81zhi"
+      binary: "C:/Users/ned1_/Projects/RareCell/build/x64-Release/CMakeFiles/CMakeScratch/TryCompile-n81zhi"
     cmakeVariables:
       CMAKE_CUDA_ARCHITECTURES: "75"
       CMAKE_CUDA_FLAGS: "-D_WINDOWS -Xcompiler=\" /EHsc\""
       CMAKE_CUDA_FLAGS_DEBUG: "-Xcompiler=\" -Zi -Ob0 -Od /RTC1\""
       CMAKE_CUDA_RUNTIME_LIBRARY: "Static"
       CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
-      VCPKG_INSTALLED_DIR: "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/vcpkg/installed"
+      VCPKG_INSTALLED_DIR: "C:/dev/vcpkg/installed"
       VCPKG_PREFER_SYSTEM_LIBS: "OFF"
       VCPKG_TARGET_TRIPLET: "x64-windows"
-      Z_VCPKG_ROOT_DIR: "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/vcpkg"
+      Z_VCPKG_ROOT_DIR: "C:/dev/vcpkg"
     buildResult:
       variable: "CMAKE_CUDA_ABI_COMPILED"
       cached: true
       stdout: |
-        Change Dir: 'C:/Users/ned1_/Projects/RareCell/build/x64-Release/CMakeFiles/CMakeScratch/TryCompile-ebm4u2'
+        Change Dir: 'C:/Users/ned1_/Projects/RareCell/build/x64-Release/CMakeFiles/CMakeScratch/TryCompile-n81zhi'
         
-        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_4b02b
-        [1/2] C:\\PROGRA~1\\NVIDIA~2\\CUDA\\v13.0\\bin\\nvcc.exe -forward-unknown-to-host-compiler   -D_WINDOWS -Xcompiler=" /EHsc"  -Xcompiler=" -Zi -Ob0 -Od /RTC1" "--generate-code=arch=compute_75,code=[compute_75,sm_75]" -Xcompiler=-MDd   -Xcompiler=-v -MD -MT CMakeFiles\\cmTC_4b02b.dir\\CMakeCUDACompilerABI.cu.obj -MF CMakeFiles\\cmTC_4b02b.dir\\CMakeCUDACompilerABI.cu.obj.d -x cu -c "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\share\\cmake-3.31\\Modules\\CMakeCUDACompilerABI.cu" -o CMakeFiles\\cmTC_4b02b.dir\\CMakeCUDACompilerABI.cu.obj -Xcompiler=-FdCMakeFiles\\cmTC_4b02b.dir\\,-FS
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_a3db1
+        [1/2] C:\\PROGRA~1\\NVIDIA~2\\CUDA\\v13.0\\bin\\nvcc.exe -forward-unknown-to-host-compiler   -D_WINDOWS -Xcompiler=" /EHsc"  -Xcompiler=" -Zi -Ob0 -Od /RTC1" "--generate-code=arch=compute_75,code=[compute_75,sm_75]" -Xcompiler=-MDd   -Xcompiler=-v -MD -MT CMakeFiles\\cmTC_a3db1.dir\\CMakeCUDACompilerABI.cu.obj -MF CMakeFiles\\cmTC_a3db1.dir\\CMakeCUDACompilerABI.cu.obj.d -x cu -c "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\share\\cmake-3.31\\Modules\\CMakeCUDACompilerABI.cu" -o CMakeFiles\\cmTC_a3db1.dir\\CMakeCUDACompilerABI.cu.obj -Xcompiler=-FdCMakeFiles\\cmTC_a3db1.dir\\,-FS
         cl : Command line warning D9002 : ignoring unknown option '-v'
         CMakeCUDACompilerABI.cu
         cl : Command line warning D9002 : ignoring unknown option '-v'
         CMakeCUDACompilerABI.cu
         CMakeCUDACompilerABI.cu
         cl : Command line warning D9002 : ignoring unknown option '-v'
-        tmpxft_00021450_00000000-7_CMakeCUDACompilerABI.cudafe1.cpp
+        tmpxft_00019cc4_00000000-7_CMakeCUDACompilerABI.cudafe1.cpp
         C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\share\\cmake-3.31\\Modules\\CMakeCompilerCUDAArch.h(10): warning C4305: 'return': truncation from 'int' to 'bool'\x0d
-        [2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\\cmTC_4b02b.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1442~1.344\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_4b02b.dir\\CMakeCUDACompilerABI.cu.obj  /out:cmTC_4b02b.exe /implib:cmTC_4b02b.lib /pdb:cmTC_4b02b.pdb /version:0.0 /machine:x64 -v /debug /INCREMENTAL  cudadevrt.lib  cudart_static.lib -LIBPATH:"C:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v13.0/lib/x64" && cd ."
+        [2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\\cmTC_a3db1.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1442~1.344\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_a3db1.dir\\CMakeCUDACompilerABI.cu.obj  /out:cmTC_a3db1.exe /implib:cmTC_a3db1.lib /pdb:cmTC_a3db1.pdb /version:0.0 /machine:x64 -v /debug /INCREMENTAL  cudadevrt.lib  cudart_static.lib -LIBPATH:"C:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v13.0/lib/x64" && cd ."
         
       exitCode: 0
   -
@@ -397,19 +397,19 @@ events:
       Parsed CUDA implicit link information:
         link line regex: [^( *|.*[/\\])(ld[0-9]*(\\.[a-z]+)?|link\\.exe|lld-link(\\.exe)?|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\\]+-)?ld|collect2)[^/\\]*( |$)]
         linker tool regex: [^[ 	]*(->|")?[ 	]*(([^"]*[/\\])?(ld[0-9]*(\\.[a-z]+)?|link\\.exe|lld-link(\\.exe)?))("|,| |$)]
-        ignore line: [Change Dir: 'C:/Users/ned1_/Projects/RareCell/build/x64-Release/CMakeFiles/CMakeScratch/TryCompile-ebm4u2']
+        ignore line: [Change Dir: 'C:/Users/ned1_/Projects/RareCell/build/x64-Release/CMakeFiles/CMakeScratch/TryCompile-n81zhi']
         ignore line: []
-        ignore line: [Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_4b02b]
-        ignore line: [[1/2] C:\\PROGRA~1\\NVIDIA~2\\CUDA\\v13.0\\bin\\nvcc.exe -forward-unknown-to-host-compiler   -D_WINDOWS -Xcompiler=" /EHsc"  -Xcompiler=" -Zi -Ob0 -Od /RTC1" "--generate-code=arch=compute_75 code=[compute_75 sm_75]" -Xcompiler=-MDd   -Xcompiler=-v -MD -MT CMakeFiles\\cmTC_4b02b.dir\\CMakeCUDACompilerABI.cu.obj -MF CMakeFiles\\cmTC_4b02b.dir\\CMakeCUDACompilerABI.cu.obj.d -x cu -c "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\share\\cmake-3.31\\Modules\\CMakeCUDACompilerABI.cu" -o CMakeFiles\\cmTC_4b02b.dir\\CMakeCUDACompilerABI.cu.obj -Xcompiler=-FdCMakeFiles\\cmTC_4b02b.dir\\ -FS]
+        ignore line: [Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_a3db1]
+        ignore line: [[1/2] C:\\PROGRA~1\\NVIDIA~2\\CUDA\\v13.0\\bin\\nvcc.exe -forward-unknown-to-host-compiler   -D_WINDOWS -Xcompiler=" /EHsc"  -Xcompiler=" -Zi -Ob0 -Od /RTC1" "--generate-code=arch=compute_75 code=[compute_75 sm_75]" -Xcompiler=-MDd   -Xcompiler=-v -MD -MT CMakeFiles\\cmTC_a3db1.dir\\CMakeCUDACompilerABI.cu.obj -MF CMakeFiles\\cmTC_a3db1.dir\\CMakeCUDACompilerABI.cu.obj.d -x cu -c "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\share\\cmake-3.31\\Modules\\CMakeCUDACompilerABI.cu" -o CMakeFiles\\cmTC_a3db1.dir\\CMakeCUDACompilerABI.cu.obj -Xcompiler=-FdCMakeFiles\\cmTC_a3db1.dir\\ -FS]
         ignore line: [cl : Command line warning D9002 : ignoring unknown option '-v']
         ignore line: [CMakeCUDACompilerABI.cu]
         ignore line: [cl : Command line warning D9002 : ignoring unknown option '-v']
         ignore line: [CMakeCUDACompilerABI.cu]
         ignore line: [CMakeCUDACompilerABI.cu]
         ignore line: [cl : Command line warning D9002 : ignoring unknown option '-v']
-        ignore line: [tmpxft_00021450_00000000-7_CMakeCUDACompilerABI.cudafe1.cpp]
+        ignore line: [tmpxft_00019cc4_00000000-7_CMakeCUDACompilerABI.cudafe1.cpp]
         ignore line: [C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\share\\cmake-3.31\\Modules\\CMakeCompilerCUDAArch.h(10): warning C4305: 'return': truncation from 'int' to 'bool'\x0d]
-        ignore line: [[2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\\cmTC_4b02b.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1442~1.344\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_4b02b.dir\\CMakeCUDACompilerABI.cu.obj  /out:cmTC_4b02b.exe /implib:cmTC_4b02b.lib /pdb:cmTC_4b02b.pdb /version:0.0 /machine:x64 -v /debug /INCREMENTAL  cudadevrt.lib  cudart_static.lib -LIBPATH:"C:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v13.0/lib/x64" && cd ."]
+        ignore line: [[2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\\cmTC_a3db1.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1442~1.344\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_a3db1.dir\\CMakeCUDACompilerABI.cu.obj  /out:cmTC_a3db1.exe /implib:cmTC_a3db1.lib /pdb:cmTC_a3db1.pdb /version:0.0 /machine:x64 -v /debug /INCREMENTAL  cudadevrt.lib  cudart_static.lib -LIBPATH:"C:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v13.0/lib/x64" && cd ."]
         ignore line: []
         ignore line: []
         linker tool for 'CUDA': C:/PROGRA~1/MICROS~4/2022/COMMUN~1/VC/Tools/MSVC/1442~1.344/bin/Hostx64/x64/link.exe
@@ -436,30 +436,31 @@ events:
       - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/FindMPI.cmake:1283 (try_compile)"
       - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/FindMPI.cmake:1327 (_MPI_try_staged_settings)"
       - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/FindMPI.cmake:1650 (_MPI_check_lang_works)"
-      - "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/vcpkg/scripts/buildsystems/vcpkg.cmake:893 (_find_package)"
-      - "CMakeLists.txt:8 (find_package)"
+      - "C:/dev/vcpkg/scripts/buildsystems/vcpkg.cmake:898 (_find_package)"
+      - "CMakeLists.txt:36 (find_package)"
     description: "The MPI test test_mpi for CXX in mode normal"
     directories:
-      source: "C:/Users/ned1_/Projects/RareCell/build/x64-Release/CMakeFiles/CMakeScratch/TryCompile-j8gi6y"
-      binary: "C:/Users/ned1_/Projects/RareCell/build/x64-Release/CMakeFiles/CMakeScratch/TryCompile-j8gi6y"
+      source: "C:/Users/ned1_/Projects/RareCell/build/x64-Release/CMakeFiles/CMakeScratch/TryCompile-6ckxfc"
+      binary: "C:/Users/ned1_/Projects/RareCell/build/x64-Release/CMakeFiles/CMakeScratch/TryCompile-6ckxfc"
     cmakeVariables:
       CMAKE_CUDA_ARCHITECTURES: "75"
       CMAKE_CXX_FLAGS: "/DWIN32 /D_WINDOWS /EHsc"
       CMAKE_CXX_FLAGS_DEBUG: "/Zi /Ob0 /Od /RTC1"
       CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
-      VCPKG_INSTALLED_DIR: "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/vcpkg/installed"
+      CMAKE_POSITION_INDEPENDENT_CODE: "ON"
+      VCPKG_INSTALLED_DIR: "C:/dev/vcpkg/installed"
       VCPKG_PREFER_SYSTEM_LIBS: "OFF"
       VCPKG_TARGET_TRIPLET: "x64-windows"
-      Z_VCPKG_ROOT_DIR: "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/vcpkg"
+      Z_VCPKG_ROOT_DIR: "C:/dev/vcpkg"
     buildResult:
       variable: "MPI_RESULT_CXX_test_mpi_normal"
       cached: true
       stdout: |
-        Change Dir: 'C:/Users/ned1_/Projects/RareCell/build/x64-Release/CMakeFiles/CMakeScratch/TryCompile-j8gi6y'
+        Change Dir: 'C:/Users/ned1_/Projects/RareCell/build/x64-Release/CMakeFiles/CMakeScratch/TryCompile-6ckxfc'
         
-        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_b3ba8
-        [1/2] C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1442~1.344\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP  -external:I"C:\\Program Files (x86)\\Microsoft SDKs\\MPI\\Include" -external:W0 /DWIN32 /D_WINDOWS /EHsc  /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /showIncludes /FoCMakeFiles\\cmTC_b3ba8.dir\\test_mpi.cpp.obj /FdCMakeFiles\\cmTC_b3ba8.dir\\ /FS -c C:\\Users\\ned1_\\Projects\\RareCell\\build\\x64-Release\\CMakeFiles\\CMakeScratch\\TryCompile-j8gi6y\\test_mpi.cpp
-        [2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --msvc-ver=1942 --intdir=CMakeFiles\\cmTC_b3ba8.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1442~1.344\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_b3ba8.dir\\test_mpi.cpp.obj  /out:cmTC_b3ba8.exe /implib:cmTC_b3ba8.lib /pdb:cmTC_b3ba8.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  "C:\\Program Files (x86)\\Microsoft SDKs\\MPI\\Lib\\x64\\msmpi.lib"  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_67ec2
+        [1/2] C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1442~1.344\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP  -external:I"C:\\Program Files (x86)\\Microsoft SDKs\\MPI\\Include" -external:W0 /DWIN32 /D_WINDOWS /EHsc  /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /showIncludes /FoCMakeFiles\\cmTC_67ec2.dir\\test_mpi.cpp.obj /FdCMakeFiles\\cmTC_67ec2.dir\\ /FS -c C:\\Users\\ned1_\\Projects\\RareCell\\build\\x64-Release\\CMakeFiles\\CMakeScratch\\TryCompile-6ckxfc\\test_mpi.cpp
+        [2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --msvc-ver=1942 --intdir=CMakeFiles\\cmTC_67ec2.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1442~1.344\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_67ec2.dir\\test_mpi.cpp.obj  /out:cmTC_67ec2.exe /implib:cmTC_67ec2.lib /pdb:cmTC_67ec2.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  "C:\\Program Files (x86)\\Microsoft SDKs\\MPI\\Lib\\x64\\msmpi.lib"  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
         
       exitCode: 0
   -
@@ -467,30 +468,31 @@ events:
     backtrace:
       - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/FindMPI.cmake:1283 (try_compile)"
       - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/FindMPI.cmake:1677 (_MPI_try_staged_settings)"
-      - "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/vcpkg/scripts/buildsystems/vcpkg.cmake:893 (_find_package)"
-      - "CMakeLists.txt:8 (find_package)"
+      - "C:/dev/vcpkg/scripts/buildsystems/vcpkg.cmake:898 (_find_package)"
+      - "CMakeLists.txt:36 (find_package)"
     description: "The MPI test test_mpi for CXX in mode MPICXX"
     directories:
-      source: "C:/Users/ned1_/Projects/RareCell/build/x64-Release/CMakeFiles/CMakeScratch/TryCompile-lsv2vh"
-      binary: "C:/Users/ned1_/Projects/RareCell/build/x64-Release/CMakeFiles/CMakeScratch/TryCompile-lsv2vh"
+      source: "C:/Users/ned1_/Projects/RareCell/build/x64-Release/CMakeFiles/CMakeScratch/TryCompile-v11j5s"
+      binary: "C:/Users/ned1_/Projects/RareCell/build/x64-Release/CMakeFiles/CMakeScratch/TryCompile-v11j5s"
     cmakeVariables:
       CMAKE_CUDA_ARCHITECTURES: "75"
       CMAKE_CXX_FLAGS: "/DWIN32 /D_WINDOWS /EHsc"
       CMAKE_CXX_FLAGS_DEBUG: "/Zi /Ob0 /Od /RTC1"
       CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
-      VCPKG_INSTALLED_DIR: "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/vcpkg/installed"
+      CMAKE_POSITION_INDEPENDENT_CODE: "ON"
+      VCPKG_INSTALLED_DIR: "C:/dev/vcpkg/installed"
       VCPKG_PREFER_SYSTEM_LIBS: "OFF"
       VCPKG_TARGET_TRIPLET: "x64-windows"
-      Z_VCPKG_ROOT_DIR: "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/vcpkg"
+      Z_VCPKG_ROOT_DIR: "C:/dev/vcpkg"
     buildResult:
       variable: "MPI_RESULT_CXX_test_mpi_MPICXX"
       cached: true
       stdout: |
-        Change Dir: 'C:/Users/ned1_/Projects/RareCell/build/x64-Release/CMakeFiles/CMakeScratch/TryCompile-lsv2vh'
+        Change Dir: 'C:/Users/ned1_/Projects/RareCell/build/x64-Release/CMakeFiles/CMakeScratch/TryCompile-v11j5s'
         
-        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_ca7d0
-        [1/2] C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1442~1.344\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP  -external:I"C:\\Program Files (x86)\\Microsoft SDKs\\MPI\\Include" -external:W0 /DWIN32 /D_WINDOWS /EHsc  /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /showIncludes /FoCMakeFiles\\cmTC_ca7d0.dir\\test_mpi.cpp.obj /FdCMakeFiles\\cmTC_ca7d0.dir\\ /FS -c C:\\Users\\ned1_\\Projects\\RareCell\\build\\x64-Release\\CMakeFiles\\CMakeScratch\\TryCompile-lsv2vh\\test_mpi.cpp
-        [2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --msvc-ver=1942 --intdir=CMakeFiles\\cmTC_ca7d0.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1442~1.344\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_ca7d0.dir\\test_mpi.cpp.obj  /out:cmTC_ca7d0.exe /implib:cmTC_ca7d0.lib /pdb:cmTC_ca7d0.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  "C:\\Program Files (x86)\\Microsoft SDKs\\MPI\\Lib\\x64\\msmpi.lib"  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_36c5a
+        [1/2] C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1442~1.344\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP  -external:I"C:\\Program Files (x86)\\Microsoft SDKs\\MPI\\Include" -external:W0 /DWIN32 /D_WINDOWS /EHsc  /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /showIncludes /FoCMakeFiles\\cmTC_36c5a.dir\\test_mpi.cpp.obj /FdCMakeFiles\\cmTC_36c5a.dir\\ /FS -c C:\\Users\\ned1_\\Projects\\RareCell\\build\\x64-Release\\CMakeFiles\\CMakeScratch\\TryCompile-v11j5s\\test_mpi.cpp
+        [2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --msvc-ver=1942 --intdir=CMakeFiles\\cmTC_36c5a.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1442~1.344\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_36c5a.dir\\test_mpi.cpp.obj  /out:cmTC_36c5a.exe /implib:cmTC_36c5a.lib /pdb:cmTC_36c5a.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  "C:\\Program Files (x86)\\Microsoft SDKs\\MPI\\Lib\\x64\\msmpi.lib"  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
         
       exitCode: 0
   -
@@ -500,35 +502,36 @@ events:
       - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/CheckCXXSourceCompiles.cmake:58 (cmake_check_source_compiles)"
       - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/FindThreads.cmake:99 (CHECK_CXX_SOURCE_COMPILES)"
       - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/FindThreads.cmake:163 (_threads_check_libc)"
-      - "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/vcpkg/scripts/buildsystems/vcpkg.cmake:893 (_find_package)"
-      - "C:/Users/ned1_/anaconda3/Library/cmake/hdf5-config.cmake:120 (find_package)"
-      - "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/vcpkg/scripts/buildsystems/vcpkg.cmake:893 (_find_package)"
+      - "C:/dev/vcpkg/scripts/buildsystems/vcpkg.cmake:898 (_find_package)"
+      - "C:/Program Files/HDF_Group/HDF5/2.0.0/cmake/hdf5-config.cmake:125 (find_package)"
+      - "C:/dev/vcpkg/scripts/buildsystems/vcpkg.cmake:898 (_find_package)"
       - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/FindHDF5.cmake:513 (find_package)"
-      - "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/vcpkg/scripts/buildsystems/vcpkg.cmake:893 (_find_package)"
-      - "CMakeLists.txt:10 (find_package)"
+      - "C:/dev/vcpkg/scripts/buildsystems/vcpkg.cmake:898 (_find_package)"
+      - "CMakeLists.txt:39 (find_package)"
     directories:
-      source: "C:/Users/ned1_/Projects/RareCell/build/x64-Release/CMakeFiles/CMakeScratch/TryCompile-6xnro2"
-      binary: "C:/Users/ned1_/Projects/RareCell/build/x64-Release/CMakeFiles/CMakeScratch/TryCompile-6xnro2"
+      source: "C:/Users/ned1_/Projects/RareCell/build/x64-Release/CMakeFiles/CMakeScratch/TryCompile-w7rhcu"
+      binary: "C:/Users/ned1_/Projects/RareCell/build/x64-Release/CMakeFiles/CMakeScratch/TryCompile-w7rhcu"
     cmakeVariables:
       CMAKE_CUDA_ARCHITECTURES: "75"
       CMAKE_CXX_FLAGS: "/DWIN32 /D_WINDOWS /EHsc"
       CMAKE_CXX_FLAGS_DEBUG: "/Zi /Ob0 /Od /RTC1"
       CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
-      VCPKG_INSTALLED_DIR: "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/vcpkg/installed"
+      CMAKE_POSITION_INDEPENDENT_CODE: "ON"
+      VCPKG_INSTALLED_DIR: "C:/dev/vcpkg/installed"
       VCPKG_PREFER_SYSTEM_LIBS: "OFF"
       VCPKG_TARGET_TRIPLET: "x64-windows"
-      Z_VCPKG_ROOT_DIR: "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/vcpkg"
+      Z_VCPKG_ROOT_DIR: "C:/dev/vcpkg"
     buildResult:
       variable: "CMAKE_HAVE_LIBC_PTHREAD"
       cached: true
       stdout: |
-        Change Dir: 'C:/Users/ned1_/Projects/RareCell/build/x64-Release/CMakeFiles/CMakeScratch/TryCompile-6xnro2'
+        Change Dir: 'C:/Users/ned1_/Projects/RareCell/build/x64-Release/CMakeFiles/CMakeScratch/TryCompile-w7rhcu'
         
-        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_7cd03
-        [1/2] C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1442~1.344\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DCMAKE_HAVE_LIBC_PTHREAD  /DWIN32 /D_WINDOWS /EHsc  /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /showIncludes /FoCMakeFiles\\cmTC_7cd03.dir\\src.cxx.obj /FdCMakeFiles\\cmTC_7cd03.dir\\ /FS -c C:\\Users\\ned1_\\Projects\\RareCell\\build\\x64-Release\\CMakeFiles\\CMakeScratch\\TryCompile-6xnro2\\src.cxx
-        FAILED: CMakeFiles/cmTC_7cd03.dir/src.cxx.obj 
-        C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1442~1.344\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DCMAKE_HAVE_LIBC_PTHREAD  /DWIN32 /D_WINDOWS /EHsc  /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /showIncludes /FoCMakeFiles\\cmTC_7cd03.dir\\src.cxx.obj /FdCMakeFiles\\cmTC_7cd03.dir\\ /FS -c C:\\Users\\ned1_\\Projects\\RareCell\\build\\x64-Release\\CMakeFiles\\CMakeScratch\\TryCompile-6xnro2\\src.cxx
-        C:\\Users\\ned1_\\Projects\\RareCell\\build\\x64-Release\\CMakeFiles\\CMakeScratch\\TryCompile-6xnro2\\src.cxx(1): fatal error C1083: Cannot open include file: 'pthread.h': No such file or directory
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_9480e
+        [1/2] C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1442~1.344\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DCMAKE_HAVE_LIBC_PTHREAD  /DWIN32 /D_WINDOWS /EHsc  /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /showIncludes /FoCMakeFiles\\cmTC_9480e.dir\\src.cxx.obj /FdCMakeFiles\\cmTC_9480e.dir\\ /FS -c C:\\Users\\ned1_\\Projects\\RareCell\\build\\x64-Release\\CMakeFiles\\CMakeScratch\\TryCompile-w7rhcu\\src.cxx
+        FAILED: CMakeFiles/cmTC_9480e.dir/src.cxx.obj 
+        C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1442~1.344\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DCMAKE_HAVE_LIBC_PTHREAD  /DWIN32 /D_WINDOWS /EHsc  /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /showIncludes /FoCMakeFiles\\cmTC_9480e.dir\\src.cxx.obj /FdCMakeFiles\\cmTC_9480e.dir\\ /FS -c C:\\Users\\ned1_\\Projects\\RareCell\\build\\x64-Release\\CMakeFiles\\CMakeScratch\\TryCompile-w7rhcu\\src.cxx
+        C:\\Users\\ned1_\\Projects\\RareCell\\build\\x64-Release\\CMakeFiles\\CMakeScratch\\TryCompile-w7rhcu\\src.cxx(1): fatal error C1083: Cannot open include file: 'pthread.h': No such file or directory
         ninja: build stopped: subcommand failed.
         
       exitCode: 1
@@ -538,36 +541,37 @@ events:
       - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/CheckLibraryExists.cmake:78 (try_compile)"
       - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/FindThreads.cmake:112 (CHECK_LIBRARY_EXISTS)"
       - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/FindThreads.cmake:175 (_threads_check_lib)"
-      - "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/vcpkg/scripts/buildsystems/vcpkg.cmake:893 (_find_package)"
-      - "C:/Users/ned1_/anaconda3/Library/cmake/hdf5-config.cmake:120 (find_package)"
-      - "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/vcpkg/scripts/buildsystems/vcpkg.cmake:893 (_find_package)"
+      - "C:/dev/vcpkg/scripts/buildsystems/vcpkg.cmake:898 (_find_package)"
+      - "C:/Program Files/HDF_Group/HDF5/2.0.0/cmake/hdf5-config.cmake:125 (find_package)"
+      - "C:/dev/vcpkg/scripts/buildsystems/vcpkg.cmake:898 (_find_package)"
       - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/FindHDF5.cmake:513 (find_package)"
-      - "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/vcpkg/scripts/buildsystems/vcpkg.cmake:893 (_find_package)"
-      - "CMakeLists.txt:10 (find_package)"
+      - "C:/dev/vcpkg/scripts/buildsystems/vcpkg.cmake:898 (_find_package)"
+      - "CMakeLists.txt:39 (find_package)"
     directories:
-      source: "C:/Users/ned1_/Projects/RareCell/build/x64-Release/CMakeFiles/CMakeScratch/TryCompile-lybmm0"
-      binary: "C:/Users/ned1_/Projects/RareCell/build/x64-Release/CMakeFiles/CMakeScratch/TryCompile-lybmm0"
+      source: "C:/Users/ned1_/Projects/RareCell/build/x64-Release/CMakeFiles/CMakeScratch/TryCompile-z9khd5"
+      binary: "C:/Users/ned1_/Projects/RareCell/build/x64-Release/CMakeFiles/CMakeScratch/TryCompile-z9khd5"
     cmakeVariables:
       CMAKE_CUDA_ARCHITECTURES: "75"
       CMAKE_CXX_FLAGS: "/DWIN32 /D_WINDOWS /EHsc"
       CMAKE_CXX_FLAGS_DEBUG: "/Zi /Ob0 /Od /RTC1"
       CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
-      VCPKG_INSTALLED_DIR: "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/vcpkg/installed"
+      CMAKE_POSITION_INDEPENDENT_CODE: "ON"
+      VCPKG_INSTALLED_DIR: "C:/dev/vcpkg/installed"
       VCPKG_PREFER_SYSTEM_LIBS: "OFF"
       VCPKG_TARGET_TRIPLET: "x64-windows"
-      Z_VCPKG_ROOT_DIR: "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/vcpkg"
+      Z_VCPKG_ROOT_DIR: "C:/dev/vcpkg"
     buildResult:
       variable: "CMAKE_HAVE_PTHREADS_CREATE"
       cached: true
       stdout: |
-        Change Dir: 'C:/Users/ned1_/Projects/RareCell/build/x64-Release/CMakeFiles/CMakeScratch/TryCompile-lybmm0'
+        Change Dir: 'C:/Users/ned1_/Projects/RareCell/build/x64-Release/CMakeFiles/CMakeScratch/TryCompile-z9khd5'
         
-        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_7c859
-        [1/2] C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1442~1.344\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP   /DWIN32 /D_WINDOWS /EHsc -DCHECK_FUNCTION_EXISTS=pthread_create /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /showIncludes /FoCMakeFiles\\cmTC_7c859.dir\\CheckFunctionExists.cxx.obj /FdCMakeFiles\\cmTC_7c859.dir\\ /FS -c C:\\Users\\ned1_\\Projects\\RareCell\\build\\x64-Release\\CMakeFiles\\CMakeScratch\\TryCompile-lybmm0\\CheckFunctionExists.cxx
-        [2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --msvc-ver=1942 --intdir=CMakeFiles\\cmTC_7c859.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1442~1.344\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_7c859.dir\\CheckFunctionExists.cxx.obj  /out:cmTC_7c859.exe /implib:cmTC_7c859.lib /pdb:cmTC_7c859.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  pthreads.lib  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
-        FAILED: cmTC_7c859.exe 
-        C:\\WINDOWS\\system32\\cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --msvc-ver=1942 --intdir=CMakeFiles\\cmTC_7c859.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1442~1.344\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_7c859.dir\\CheckFunctionExists.cxx.obj  /out:cmTC_7c859.exe /implib:cmTC_7c859.lib /pdb:cmTC_7c859.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  pthreads.lib  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
-        LINK Pass 1: command "C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1442~1.344\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_7c859.dir\\CheckFunctionExists.cxx.obj /out:cmTC_7c859.exe /implib:cmTC_7c859.lib /pdb:cmTC_7c859.pdb /version:0.0 /machine:x64 /debug /INCREMENTAL /subsystem:console pthreads.lib kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTFILE:CMakeFiles\\cmTC_7c859.dir/intermediate.manifest CMakeFiles\\cmTC_7c859.dir/manifest.res" failed (exit code 1104) with the following output:
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_b9565
+        [1/2] C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1442~1.344\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP   /DWIN32 /D_WINDOWS /EHsc -DCHECK_FUNCTION_EXISTS=pthread_create /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /showIncludes /FoCMakeFiles\\cmTC_b9565.dir\\CheckFunctionExists.cxx.obj /FdCMakeFiles\\cmTC_b9565.dir\\ /FS -c C:\\Users\\ned1_\\Projects\\RareCell\\build\\x64-Release\\CMakeFiles\\CMakeScratch\\TryCompile-z9khd5\\CheckFunctionExists.cxx
+        [2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --msvc-ver=1942 --intdir=CMakeFiles\\cmTC_b9565.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1442~1.344\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_b9565.dir\\CheckFunctionExists.cxx.obj  /out:cmTC_b9565.exe /implib:cmTC_b9565.lib /pdb:cmTC_b9565.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  pthreads.lib  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        FAILED: cmTC_b9565.exe 
+        C:\\WINDOWS\\system32\\cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --msvc-ver=1942 --intdir=CMakeFiles\\cmTC_b9565.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1442~1.344\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_b9565.dir\\CheckFunctionExists.cxx.obj  /out:cmTC_b9565.exe /implib:cmTC_b9565.lib /pdb:cmTC_b9565.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  pthreads.lib  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        LINK Pass 1: command "C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1442~1.344\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_b9565.dir\\CheckFunctionExists.cxx.obj /out:cmTC_b9565.exe /implib:cmTC_b9565.lib /pdb:cmTC_b9565.pdb /version:0.0 /machine:x64 /debug /INCREMENTAL /subsystem:console pthreads.lib kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTFILE:CMakeFiles\\cmTC_b9565.dir/intermediate.manifest CMakeFiles\\cmTC_b9565.dir/manifest.res" failed (exit code 1104) with the following output:
         LINK : fatal error LNK1104: cannot open file 'pthreads.lib'\x0d
         ninja: build stopped: subcommand failed.
         
@@ -578,36 +582,37 @@ events:
       - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/CheckLibraryExists.cmake:78 (try_compile)"
       - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/FindThreads.cmake:112 (CHECK_LIBRARY_EXISTS)"
       - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/FindThreads.cmake:176 (_threads_check_lib)"
-      - "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/vcpkg/scripts/buildsystems/vcpkg.cmake:893 (_find_package)"
-      - "C:/Users/ned1_/anaconda3/Library/cmake/hdf5-config.cmake:120 (find_package)"
-      - "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/vcpkg/scripts/buildsystems/vcpkg.cmake:893 (_find_package)"
+      - "C:/dev/vcpkg/scripts/buildsystems/vcpkg.cmake:898 (_find_package)"
+      - "C:/Program Files/HDF_Group/HDF5/2.0.0/cmake/hdf5-config.cmake:125 (find_package)"
+      - "C:/dev/vcpkg/scripts/buildsystems/vcpkg.cmake:898 (_find_package)"
       - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/FindHDF5.cmake:513 (find_package)"
-      - "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/vcpkg/scripts/buildsystems/vcpkg.cmake:893 (_find_package)"
-      - "CMakeLists.txt:10 (find_package)"
+      - "C:/dev/vcpkg/scripts/buildsystems/vcpkg.cmake:898 (_find_package)"
+      - "CMakeLists.txt:39 (find_package)"
     directories:
-      source: "C:/Users/ned1_/Projects/RareCell/build/x64-Release/CMakeFiles/CMakeScratch/TryCompile-ubqe50"
-      binary: "C:/Users/ned1_/Projects/RareCell/build/x64-Release/CMakeFiles/CMakeScratch/TryCompile-ubqe50"
+      source: "C:/Users/ned1_/Projects/RareCell/build/x64-Release/CMakeFiles/CMakeScratch/TryCompile-eazxe6"
+      binary: "C:/Users/ned1_/Projects/RareCell/build/x64-Release/CMakeFiles/CMakeScratch/TryCompile-eazxe6"
     cmakeVariables:
       CMAKE_CUDA_ARCHITECTURES: "75"
       CMAKE_CXX_FLAGS: "/DWIN32 /D_WINDOWS /EHsc"
       CMAKE_CXX_FLAGS_DEBUG: "/Zi /Ob0 /Od /RTC1"
       CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
-      VCPKG_INSTALLED_DIR: "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/vcpkg/installed"
+      CMAKE_POSITION_INDEPENDENT_CODE: "ON"
+      VCPKG_INSTALLED_DIR: "C:/dev/vcpkg/installed"
       VCPKG_PREFER_SYSTEM_LIBS: "OFF"
       VCPKG_TARGET_TRIPLET: "x64-windows"
-      Z_VCPKG_ROOT_DIR: "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/vcpkg"
+      Z_VCPKG_ROOT_DIR: "C:/dev/vcpkg"
     buildResult:
       variable: "CMAKE_HAVE_PTHREAD_CREATE"
       cached: true
       stdout: |
-        Change Dir: 'C:/Users/ned1_/Projects/RareCell/build/x64-Release/CMakeFiles/CMakeScratch/TryCompile-ubqe50'
+        Change Dir: 'C:/Users/ned1_/Projects/RareCell/build/x64-Release/CMakeFiles/CMakeScratch/TryCompile-eazxe6'
         
-        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_6bb97
-        [1/2] C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1442~1.344\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP   /DWIN32 /D_WINDOWS /EHsc -DCHECK_FUNCTION_EXISTS=pthread_create /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /showIncludes /FoCMakeFiles\\cmTC_6bb97.dir\\CheckFunctionExists.cxx.obj /FdCMakeFiles\\cmTC_6bb97.dir\\ /FS -c C:\\Users\\ned1_\\Projects\\RareCell\\build\\x64-Release\\CMakeFiles\\CMakeScratch\\TryCompile-ubqe50\\CheckFunctionExists.cxx
-        [2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --msvc-ver=1942 --intdir=CMakeFiles\\cmTC_6bb97.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1442~1.344\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_6bb97.dir\\CheckFunctionExists.cxx.obj  /out:cmTC_6bb97.exe /implib:cmTC_6bb97.lib /pdb:cmTC_6bb97.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  pthread.lib  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
-        FAILED: cmTC_6bb97.exe 
-        C:\\WINDOWS\\system32\\cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --msvc-ver=1942 --intdir=CMakeFiles\\cmTC_6bb97.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1442~1.344\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_6bb97.dir\\CheckFunctionExists.cxx.obj  /out:cmTC_6bb97.exe /implib:cmTC_6bb97.lib /pdb:cmTC_6bb97.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  pthread.lib  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
-        LINK Pass 1: command "C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1442~1.344\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_6bb97.dir\\CheckFunctionExists.cxx.obj /out:cmTC_6bb97.exe /implib:cmTC_6bb97.lib /pdb:cmTC_6bb97.pdb /version:0.0 /machine:x64 /debug /INCREMENTAL /subsystem:console pthread.lib kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTFILE:CMakeFiles\\cmTC_6bb97.dir/intermediate.manifest CMakeFiles\\cmTC_6bb97.dir/manifest.res" failed (exit code 1104) with the following output:
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_1d4a8
+        [1/2] C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1442~1.344\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP   /DWIN32 /D_WINDOWS /EHsc -DCHECK_FUNCTION_EXISTS=pthread_create /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /showIncludes /FoCMakeFiles\\cmTC_1d4a8.dir\\CheckFunctionExists.cxx.obj /FdCMakeFiles\\cmTC_1d4a8.dir\\ /FS -c C:\\Users\\ned1_\\Projects\\RareCell\\build\\x64-Release\\CMakeFiles\\CMakeScratch\\TryCompile-eazxe6\\CheckFunctionExists.cxx
+        [2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --msvc-ver=1942 --intdir=CMakeFiles\\cmTC_1d4a8.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1442~1.344\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_1d4a8.dir\\CheckFunctionExists.cxx.obj  /out:cmTC_1d4a8.exe /implib:cmTC_1d4a8.lib /pdb:cmTC_1d4a8.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  pthread.lib  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        FAILED: cmTC_1d4a8.exe 
+        C:\\WINDOWS\\system32\\cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --msvc-ver=1942 --intdir=CMakeFiles\\cmTC_1d4a8.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1442~1.344\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_1d4a8.dir\\CheckFunctionExists.cxx.obj  /out:cmTC_1d4a8.exe /implib:cmTC_1d4a8.lib /pdb:cmTC_1d4a8.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  pthread.lib  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        LINK Pass 1: command "C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1442~1.344\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_1d4a8.dir\\CheckFunctionExists.cxx.obj /out:cmTC_1d4a8.exe /implib:cmTC_1d4a8.lib /pdb:cmTC_1d4a8.pdb /version:0.0 /machine:x64 /debug /INCREMENTAL /subsystem:console pthread.lib kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTFILE:CMakeFiles\\cmTC_1d4a8.dir/intermediate.manifest CMakeFiles\\cmTC_1d4a8.dir/manifest.res" failed (exit code 1104) with the following output:
         LINK : fatal error LNK1104: cannot open file 'pthread.lib'\x0d
         ninja: build stopped: subcommand failed.
         
@@ -622,30 +627,67 @@ events:
       - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/FindMPI.cmake:1283 (try_compile)"
       - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/FindMPI.cmake:1327 (_MPI_try_staged_settings)"
       - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/FindMPI.cmake:1650 (_MPI_check_lang_works)"
-      - "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/vcpkg/scripts/buildsystems/vcpkg.cmake:893 (_find_package)"
-      - "CMakeLists.txt:8 (find_package)"
+      - "C:/dev/vcpkg/scripts/buildsystems/vcpkg.cmake:898 (_find_package)"
+      - "CMakeLists.txt:36 (find_package)"
     description: "The MPI test test_mpi for CXX in mode normal"
     directories:
-      source: "C:/Users/ned1_/Projects/RareCell/build/x64-Release/CMakeFiles/CMakeScratch/TryCompile-m6l895"
-      binary: "C:/Users/ned1_/Projects/RareCell/build/x64-Release/CMakeFiles/CMakeScratch/TryCompile-m6l895"
+      source: "C:/Users/ned1_/Projects/RareCell/build/x64-Release/CMakeFiles/CMakeScratch/TryCompile-0v11p5"
+      binary: "C:/Users/ned1_/Projects/RareCell/build/x64-Release/CMakeFiles/CMakeScratch/TryCompile-0v11p5"
     cmakeVariables:
       CMAKE_CUDA_ARCHITECTURES: "75"
       CMAKE_CXX_FLAGS: "/DWIN32 /D_WINDOWS /EHsc"
       CMAKE_CXX_FLAGS_DEBUG: "/Zi /Ob0 /Od /RTC1"
       CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
-      VCPKG_INSTALLED_DIR: "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/vcpkg/installed"
+      CMAKE_POSITION_INDEPENDENT_CODE: "ON"
+      VCPKG_INSTALLED_DIR: "C:/dev/vcpkg/installed"
       VCPKG_PREFER_SYSTEM_LIBS: "OFF"
       VCPKG_TARGET_TRIPLET: "x64-windows"
-      Z_VCPKG_ROOT_DIR: "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/vcpkg"
+      Z_VCPKG_ROOT_DIR: "C:/dev/vcpkg"
     buildResult:
       variable: "MPI_RESULT_CXX_test_mpi_normal"
       cached: true
       stdout: |
-        Change Dir: 'C:/Users/ned1_/Projects/RareCell/build/x64-Release/CMakeFiles/CMakeScratch/TryCompile-m6l895'
+        Change Dir: 'C:/Users/ned1_/Projects/RareCell/build/x64-Release/CMakeFiles/CMakeScratch/TryCompile-0v11p5'
         
-        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_92a74
-        [1/2] C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1442~1.344\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP  -external:I"C:\\Program Files (x86)\\Microsoft SDKs\\MPI\\Include" -external:W0 /DWIN32 /D_WINDOWS /EHsc  /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /showIncludes /FoCMakeFiles\\cmTC_92a74.dir\\test_mpi.cpp.obj /FdCMakeFiles\\cmTC_92a74.dir\\ /FS -c C:\\Users\\ned1_\\Projects\\RareCell\\build\\x64-Release\\CMakeFiles\\CMakeScratch\\TryCompile-m6l895\\test_mpi.cpp
-        [2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --msvc-ver=1942 --intdir=CMakeFiles\\cmTC_92a74.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1442~1.344\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_92a74.dir\\test_mpi.cpp.obj  /out:cmTC_92a74.exe /implib:cmTC_92a74.lib /pdb:cmTC_92a74.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  "C:\\Program Files (x86)\\Microsoft SDKs\\MPI\\Lib\\x64\\msmpi.lib"  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_7da52
+        [1/2] C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1442~1.344\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP  -external:I"C:\\Program Files (x86)\\Microsoft SDKs\\MPI\\Include" -external:W0 /DWIN32 /D_WINDOWS /EHsc  /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /showIncludes /FoCMakeFiles\\cmTC_7da52.dir\\test_mpi.cpp.obj /FdCMakeFiles\\cmTC_7da52.dir\\ /FS -c C:\\Users\\ned1_\\Projects\\RareCell\\build\\x64-Release\\CMakeFiles\\CMakeScratch\\TryCompile-0v11p5\\test_mpi.cpp
+        [2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --msvc-ver=1942 --intdir=CMakeFiles\\cmTC_7da52.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1442~1.344\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_7da52.dir\\test_mpi.cpp.obj  /out:cmTC_7da52.exe /implib:cmTC_7da52.lib /pdb:cmTC_7da52.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  "C:\\Program Files (x86)\\Microsoft SDKs\\MPI\\Lib\\x64\\msmpi.lib"  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        
+      exitCode: 0
+
+---
+events:
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/FindMPI.cmake:1283 (try_compile)"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/FindMPI.cmake:1327 (_MPI_try_staged_settings)"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/FindMPI.cmake:1650 (_MPI_check_lang_works)"
+      - "C:/dev/vcpkg/scripts/buildsystems/vcpkg.cmake:898 (_find_package)"
+      - "CMakeLists.txt:36 (find_package)"
+    description: "The MPI test test_mpi for CXX in mode normal"
+    directories:
+      source: "C:/Users/ned1_/Projects/RareCell/build/x64-Release/CMakeFiles/CMakeScratch/TryCompile-471j4h"
+      binary: "C:/Users/ned1_/Projects/RareCell/build/x64-Release/CMakeFiles/CMakeScratch/TryCompile-471j4h"
+    cmakeVariables:
+      CMAKE_CUDA_ARCHITECTURES: "75"
+      CMAKE_CXX_FLAGS: "/DWIN32 /D_WINDOWS /EHsc"
+      CMAKE_CXX_FLAGS_DEBUG: "/Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_POSITION_INDEPENDENT_CODE: "ON"
+      VCPKG_INSTALLED_DIR: "C:/dev/vcpkg/installed"
+      VCPKG_PREFER_SYSTEM_LIBS: "OFF"
+      VCPKG_TARGET_TRIPLET: "x64-windows"
+      Z_VCPKG_ROOT_DIR: "C:/dev/vcpkg"
+    buildResult:
+      variable: "MPI_RESULT_CXX_test_mpi_normal"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/Users/ned1_/Projects/RareCell/build/x64-Release/CMakeFiles/CMakeScratch/TryCompile-471j4h'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_8286c
+        [1/2] C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1442~1.344\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP  -external:I"C:\\Program Files (x86)\\Microsoft SDKs\\MPI\\Include" -external:W0 /DWIN32 /D_WINDOWS /EHsc  /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /showIncludes /FoCMakeFiles\\cmTC_8286c.dir\\test_mpi.cpp.obj /FdCMakeFiles\\cmTC_8286c.dir\\ /FS -c C:\\Users\\ned1_\\Projects\\RareCell\\build\\x64-Release\\CMakeFiles\\CMakeScratch\\TryCompile-471j4h\\test_mpi.cpp
+        [2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --msvc-ver=1942 --intdir=CMakeFiles\\cmTC_8286c.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1442~1.344\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_8286c.dir\\test_mpi.cpp.obj  /out:cmTC_8286c.exe /implib:cmTC_8286c.lib /pdb:cmTC_8286c.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  "C:\\Program Files (x86)\\Microsoft SDKs\\MPI\\Lib\\x64\\msmpi.lib"  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
         
       exitCode: 0
   -
@@ -653,30 +695,31 @@ events:
     backtrace:
       - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/FindMPI.cmake:1283 (try_compile)"
       - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/FindMPI.cmake:1677 (_MPI_try_staged_settings)"
-      - "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/vcpkg/scripts/buildsystems/vcpkg.cmake:893 (_find_package)"
-      - "CMakeLists.txt:8 (find_package)"
+      - "C:/dev/vcpkg/scripts/buildsystems/vcpkg.cmake:898 (_find_package)"
+      - "CMakeLists.txt:36 (find_package)"
     description: "The MPI test test_mpi for CXX in mode MPICXX"
     directories:
-      source: "C:/Users/ned1_/Projects/RareCell/build/x64-Release/CMakeFiles/CMakeScratch/TryCompile-zlammi"
-      binary: "C:/Users/ned1_/Projects/RareCell/build/x64-Release/CMakeFiles/CMakeScratch/TryCompile-zlammi"
+      source: "C:/Users/ned1_/Projects/RareCell/build/x64-Release/CMakeFiles/CMakeScratch/TryCompile-yhyfdg"
+      binary: "C:/Users/ned1_/Projects/RareCell/build/x64-Release/CMakeFiles/CMakeScratch/TryCompile-yhyfdg"
     cmakeVariables:
       CMAKE_CUDA_ARCHITECTURES: "75"
       CMAKE_CXX_FLAGS: "/DWIN32 /D_WINDOWS /EHsc"
       CMAKE_CXX_FLAGS_DEBUG: "/Zi /Ob0 /Od /RTC1"
       CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
-      VCPKG_INSTALLED_DIR: "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/vcpkg/installed"
+      CMAKE_POSITION_INDEPENDENT_CODE: "ON"
+      VCPKG_INSTALLED_DIR: "C:/dev/vcpkg/installed"
       VCPKG_PREFER_SYSTEM_LIBS: "OFF"
       VCPKG_TARGET_TRIPLET: "x64-windows"
-      Z_VCPKG_ROOT_DIR: "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/vcpkg"
+      Z_VCPKG_ROOT_DIR: "C:/dev/vcpkg"
     buildResult:
       variable: "MPI_RESULT_CXX_test_mpi_MPICXX"
       cached: true
       stdout: |
-        Change Dir: 'C:/Users/ned1_/Projects/RareCell/build/x64-Release/CMakeFiles/CMakeScratch/TryCompile-zlammi'
+        Change Dir: 'C:/Users/ned1_/Projects/RareCell/build/x64-Release/CMakeFiles/CMakeScratch/TryCompile-yhyfdg'
         
-        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_de0e7
-        [1/2] C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1442~1.344\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP  -external:I"C:\\Program Files (x86)\\Microsoft SDKs\\MPI\\Include" -external:W0 /DWIN32 /D_WINDOWS /EHsc  /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /showIncludes /FoCMakeFiles\\cmTC_de0e7.dir\\test_mpi.cpp.obj /FdCMakeFiles\\cmTC_de0e7.dir\\ /FS -c C:\\Users\\ned1_\\Projects\\RareCell\\build\\x64-Release\\CMakeFiles\\CMakeScratch\\TryCompile-zlammi\\test_mpi.cpp
-        [2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --msvc-ver=1942 --intdir=CMakeFiles\\cmTC_de0e7.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1442~1.344\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_de0e7.dir\\test_mpi.cpp.obj  /out:cmTC_de0e7.exe /implib:cmTC_de0e7.lib /pdb:cmTC_de0e7.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  "C:\\Program Files (x86)\\Microsoft SDKs\\MPI\\Lib\\x64\\msmpi.lib"  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_482a0
+        [1/2] C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1442~1.344\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP  -external:I"C:\\Program Files (x86)\\Microsoft SDKs\\MPI\\Include" -external:W0 /DWIN32 /D_WINDOWS /EHsc  /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /showIncludes /FoCMakeFiles\\cmTC_482a0.dir\\test_mpi.cpp.obj /FdCMakeFiles\\cmTC_482a0.dir\\ /FS -c C:\\Users\\ned1_\\Projects\\RareCell\\build\\x64-Release\\CMakeFiles\\CMakeScratch\\TryCompile-yhyfdg\\test_mpi.cpp
+        [2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --msvc-ver=1942 --intdir=CMakeFiles\\cmTC_482a0.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1442~1.344\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_482a0.dir\\test_mpi.cpp.obj  /out:cmTC_482a0.exe /implib:cmTC_482a0.lib /pdb:cmTC_482a0.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  "C:\\Program Files (x86)\\Microsoft SDKs\\MPI\\Lib\\x64\\msmpi.lib"  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
         
       exitCode: 0
 ...
@@ -689,31 +732,31 @@ events:
       - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/FindMPI.cmake:1283 (try_compile)"
       - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/FindMPI.cmake:1327 (_MPI_try_staged_settings)"
       - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/FindMPI.cmake:1650 (_MPI_check_lang_works)"
-      - "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/vcpkg/scripts/buildsystems/vcpkg.cmake:893 (_find_package)"
-      - "CMakeLists.txt:30 (find_package)"
+      - "C:/dev/vcpkg/scripts/buildsystems/vcpkg.cmake:898 (_find_package)"
+      - "CMakeLists.txt:36 (find_package)"
     description: "The MPI test test_mpi for CXX in mode normal"
     directories:
-      source: "C:/Users/ned1_/Projects/RareCell/build/x64-Release/CMakeFiles/CMakeScratch/TryCompile-kqebj9"
-      binary: "C:/Users/ned1_/Projects/RareCell/build/x64-Release/CMakeFiles/CMakeScratch/TryCompile-kqebj9"
+      source: "C:/Users/ned1_/Projects/RareCell/build/x64-Release/CMakeFiles/CMakeScratch/TryCompile-ydks8q"
+      binary: "C:/Users/ned1_/Projects/RareCell/build/x64-Release/CMakeFiles/CMakeScratch/TryCompile-ydks8q"
     cmakeVariables:
       CMAKE_CUDA_ARCHITECTURES: "75"
       CMAKE_CXX_FLAGS: "/DWIN32 /D_WINDOWS /EHsc"
       CMAKE_CXX_FLAGS_DEBUG: "/Zi /Ob0 /Od /RTC1"
       CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
       CMAKE_POSITION_INDEPENDENT_CODE: "ON"
-      VCPKG_INSTALLED_DIR: "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/vcpkg/installed"
+      VCPKG_INSTALLED_DIR: "C:/dev/vcpkg/installed"
       VCPKG_PREFER_SYSTEM_LIBS: "OFF"
       VCPKG_TARGET_TRIPLET: "x64-windows"
-      Z_VCPKG_ROOT_DIR: "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/vcpkg"
+      Z_VCPKG_ROOT_DIR: "C:/dev/vcpkg"
     buildResult:
       variable: "MPI_RESULT_CXX_test_mpi_normal"
       cached: true
       stdout: |
-        Change Dir: 'C:/Users/ned1_/Projects/RareCell/build/x64-Release/CMakeFiles/CMakeScratch/TryCompile-kqebj9'
+        Change Dir: 'C:/Users/ned1_/Projects/RareCell/build/x64-Release/CMakeFiles/CMakeScratch/TryCompile-ydks8q'
         
-        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_6ae6f
-        [1/2] C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1442~1.344\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP  -external:I"C:\\Program Files (x86)\\Microsoft SDKs\\MPI\\Include" -external:W0 /DWIN32 /D_WINDOWS /EHsc  /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /showIncludes /FoCMakeFiles\\cmTC_6ae6f.dir\\test_mpi.cpp.obj /FdCMakeFiles\\cmTC_6ae6f.dir\\ /FS -c C:\\Users\\ned1_\\Projects\\RareCell\\build\\x64-Release\\CMakeFiles\\CMakeScratch\\TryCompile-kqebj9\\test_mpi.cpp
-        [2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --msvc-ver=1942 --intdir=CMakeFiles\\cmTC_6ae6f.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1442~1.344\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_6ae6f.dir\\test_mpi.cpp.obj  /out:cmTC_6ae6f.exe /implib:cmTC_6ae6f.lib /pdb:cmTC_6ae6f.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  "C:\\Program Files (x86)\\Microsoft SDKs\\MPI\\Lib\\x64\\msmpi.lib"  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_d14e0
+        [1/2] C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1442~1.344\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP  -external:I"C:\\Program Files (x86)\\Microsoft SDKs\\MPI\\Include" -external:W0 /DWIN32 /D_WINDOWS /EHsc  /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /showIncludes /FoCMakeFiles\\cmTC_d14e0.dir\\test_mpi.cpp.obj /FdCMakeFiles\\cmTC_d14e0.dir\\ /FS -c C:\\Users\\ned1_\\Projects\\RareCell\\build\\x64-Release\\CMakeFiles\\CMakeScratch\\TryCompile-ydks8q\\test_mpi.cpp
+        [2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --msvc-ver=1942 --intdir=CMakeFiles\\cmTC_d14e0.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1442~1.344\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_d14e0.dir\\test_mpi.cpp.obj  /out:cmTC_d14e0.exe /implib:cmTC_d14e0.lib /pdb:cmTC_d14e0.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  "C:\\Program Files (x86)\\Microsoft SDKs\\MPI\\Lib\\x64\\msmpi.lib"  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
         
       exitCode: 0
   -
@@ -721,31 +764,31 @@ events:
     backtrace:
       - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/FindMPI.cmake:1283 (try_compile)"
       - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/FindMPI.cmake:1677 (_MPI_try_staged_settings)"
-      - "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/vcpkg/scripts/buildsystems/vcpkg.cmake:893 (_find_package)"
-      - "CMakeLists.txt:30 (find_package)"
+      - "C:/dev/vcpkg/scripts/buildsystems/vcpkg.cmake:898 (_find_package)"
+      - "CMakeLists.txt:36 (find_package)"
     description: "The MPI test test_mpi for CXX in mode MPICXX"
     directories:
-      source: "C:/Users/ned1_/Projects/RareCell/build/x64-Release/CMakeFiles/CMakeScratch/TryCompile-np17xt"
-      binary: "C:/Users/ned1_/Projects/RareCell/build/x64-Release/CMakeFiles/CMakeScratch/TryCompile-np17xt"
+      source: "C:/Users/ned1_/Projects/RareCell/build/x64-Release/CMakeFiles/CMakeScratch/TryCompile-guul9y"
+      binary: "C:/Users/ned1_/Projects/RareCell/build/x64-Release/CMakeFiles/CMakeScratch/TryCompile-guul9y"
     cmakeVariables:
       CMAKE_CUDA_ARCHITECTURES: "75"
       CMAKE_CXX_FLAGS: "/DWIN32 /D_WINDOWS /EHsc"
       CMAKE_CXX_FLAGS_DEBUG: "/Zi /Ob0 /Od /RTC1"
       CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
       CMAKE_POSITION_INDEPENDENT_CODE: "ON"
-      VCPKG_INSTALLED_DIR: "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/vcpkg/installed"
+      VCPKG_INSTALLED_DIR: "C:/dev/vcpkg/installed"
       VCPKG_PREFER_SYSTEM_LIBS: "OFF"
       VCPKG_TARGET_TRIPLET: "x64-windows"
-      Z_VCPKG_ROOT_DIR: "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/vcpkg"
+      Z_VCPKG_ROOT_DIR: "C:/dev/vcpkg"
     buildResult:
       variable: "MPI_RESULT_CXX_test_mpi_MPICXX"
       cached: true
       stdout: |
-        Change Dir: 'C:/Users/ned1_/Projects/RareCell/build/x64-Release/CMakeFiles/CMakeScratch/TryCompile-np17xt'
+        Change Dir: 'C:/Users/ned1_/Projects/RareCell/build/x64-Release/CMakeFiles/CMakeScratch/TryCompile-guul9y'
         
-        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_214b5
-        [1/2] C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1442~1.344\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP  -external:I"C:\\Program Files (x86)\\Microsoft SDKs\\MPI\\Include" -external:W0 /DWIN32 /D_WINDOWS /EHsc  /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /showIncludes /FoCMakeFiles\\cmTC_214b5.dir\\test_mpi.cpp.obj /FdCMakeFiles\\cmTC_214b5.dir\\ /FS -c C:\\Users\\ned1_\\Projects\\RareCell\\build\\x64-Release\\CMakeFiles\\CMakeScratch\\TryCompile-np17xt\\test_mpi.cpp
-        [2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --msvc-ver=1942 --intdir=CMakeFiles\\cmTC_214b5.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1442~1.344\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_214b5.dir\\test_mpi.cpp.obj  /out:cmTC_214b5.exe /implib:cmTC_214b5.lib /pdb:cmTC_214b5.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  "C:\\Program Files (x86)\\Microsoft SDKs\\MPI\\Lib\\x64\\msmpi.lib"  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_c75ee
+        [1/2] C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1442~1.344\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP  -external:I"C:\\Program Files (x86)\\Microsoft SDKs\\MPI\\Include" -external:W0 /DWIN32 /D_WINDOWS /EHsc  /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /showIncludes /FoCMakeFiles\\cmTC_c75ee.dir\\test_mpi.cpp.obj /FdCMakeFiles\\cmTC_c75ee.dir\\ /FS -c C:\\Users\\ned1_\\Projects\\RareCell\\build\\x64-Release\\CMakeFiles\\CMakeScratch\\TryCompile-guul9y\\test_mpi.cpp
+        [2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --msvc-ver=1942 --intdir=CMakeFiles\\cmTC_c75ee.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1442~1.344\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_c75ee.dir\\test_mpi.cpp.obj  /out:cmTC_c75ee.exe /implib:cmTC_c75ee.lib /pdb:cmTC_c75ee.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  "C:\\Program Files (x86)\\Microsoft SDKs\\MPI\\Lib\\x64\\msmpi.lib"  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
         
       exitCode: 0
 ...
@@ -758,31 +801,31 @@ events:
       - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/FindMPI.cmake:1283 (try_compile)"
       - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/FindMPI.cmake:1327 (_MPI_try_staged_settings)"
       - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/FindMPI.cmake:1650 (_MPI_check_lang_works)"
-      - "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/vcpkg/scripts/buildsystems/vcpkg.cmake:893 (_find_package)"
+      - "C:/dev/vcpkg/scripts/buildsystems/vcpkg.cmake:898 (_find_package)"
       - "CMakeLists.txt:36 (find_package)"
     description: "The MPI test test_mpi for CXX in mode normal"
     directories:
-      source: "C:/Users/ned1_/Projects/RareCell/build/x64-Release/CMakeFiles/CMakeScratch/TryCompile-ynhovm"
-      binary: "C:/Users/ned1_/Projects/RareCell/build/x64-Release/CMakeFiles/CMakeScratch/TryCompile-ynhovm"
+      source: "C:/Users/ned1_/Projects/RareCell/build/x64-Release/CMakeFiles/CMakeScratch/TryCompile-g61qgg"
+      binary: "C:/Users/ned1_/Projects/RareCell/build/x64-Release/CMakeFiles/CMakeScratch/TryCompile-g61qgg"
     cmakeVariables:
       CMAKE_CUDA_ARCHITECTURES: "75"
       CMAKE_CXX_FLAGS: "/DWIN32 /D_WINDOWS /EHsc"
       CMAKE_CXX_FLAGS_DEBUG: "/Zi /Ob0 /Od /RTC1"
       CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
       CMAKE_POSITION_INDEPENDENT_CODE: "ON"
-      VCPKG_INSTALLED_DIR: "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/vcpkg/installed"
+      VCPKG_INSTALLED_DIR: "C:/dev/vcpkg/installed"
       VCPKG_PREFER_SYSTEM_LIBS: "OFF"
       VCPKG_TARGET_TRIPLET: "x64-windows"
-      Z_VCPKG_ROOT_DIR: "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/vcpkg"
+      Z_VCPKG_ROOT_DIR: "C:/dev/vcpkg"
     buildResult:
       variable: "MPI_RESULT_CXX_test_mpi_normal"
       cached: true
       stdout: |
-        Change Dir: 'C:/Users/ned1_/Projects/RareCell/build/x64-Release/CMakeFiles/CMakeScratch/TryCompile-ynhovm'
+        Change Dir: 'C:/Users/ned1_/Projects/RareCell/build/x64-Release/CMakeFiles/CMakeScratch/TryCompile-g61qgg'
         
-        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_df545
-        [1/2] C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1442~1.344\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP  -external:I"C:\\Program Files (x86)\\Microsoft SDKs\\MPI\\Include" -external:W0 /DWIN32 /D_WINDOWS /EHsc  /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /showIncludes /FoCMakeFiles\\cmTC_df545.dir\\test_mpi.cpp.obj /FdCMakeFiles\\cmTC_df545.dir\\ /FS -c C:\\Users\\ned1_\\Projects\\RareCell\\build\\x64-Release\\CMakeFiles\\CMakeScratch\\TryCompile-ynhovm\\test_mpi.cpp
-        [2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --msvc-ver=1942 --intdir=CMakeFiles\\cmTC_df545.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1442~1.344\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_df545.dir\\test_mpi.cpp.obj  /out:cmTC_df545.exe /implib:cmTC_df545.lib /pdb:cmTC_df545.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  "C:\\Program Files (x86)\\Microsoft SDKs\\MPI\\Lib\\x64\\msmpi.lib"  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_78a4b
+        [1/2] C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1442~1.344\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP  -external:I"C:\\Program Files (x86)\\Microsoft SDKs\\MPI\\Include" -external:W0 /DWIN32 /D_WINDOWS /EHsc  /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /showIncludes /FoCMakeFiles\\cmTC_78a4b.dir\\test_mpi.cpp.obj /FdCMakeFiles\\cmTC_78a4b.dir\\ /FS -c C:\\Users\\ned1_\\Projects\\RareCell\\build\\x64-Release\\CMakeFiles\\CMakeScratch\\TryCompile-g61qgg\\test_mpi.cpp
+        [2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --msvc-ver=1942 --intdir=CMakeFiles\\cmTC_78a4b.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1442~1.344\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_78a4b.dir\\test_mpi.cpp.obj  /out:cmTC_78a4b.exe /implib:cmTC_78a4b.lib /pdb:cmTC_78a4b.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  "C:\\Program Files (x86)\\Microsoft SDKs\\MPI\\Lib\\x64\\msmpi.lib"  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
         
       exitCode: 0
   -
@@ -790,31 +833,31 @@ events:
     backtrace:
       - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/FindMPI.cmake:1283 (try_compile)"
       - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/FindMPI.cmake:1677 (_MPI_try_staged_settings)"
-      - "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/vcpkg/scripts/buildsystems/vcpkg.cmake:893 (_find_package)"
+      - "C:/dev/vcpkg/scripts/buildsystems/vcpkg.cmake:898 (_find_package)"
       - "CMakeLists.txt:36 (find_package)"
     description: "The MPI test test_mpi for CXX in mode MPICXX"
     directories:
-      source: "C:/Users/ned1_/Projects/RareCell/build/x64-Release/CMakeFiles/CMakeScratch/TryCompile-deac8b"
-      binary: "C:/Users/ned1_/Projects/RareCell/build/x64-Release/CMakeFiles/CMakeScratch/TryCompile-deac8b"
+      source: "C:/Users/ned1_/Projects/RareCell/build/x64-Release/CMakeFiles/CMakeScratch/TryCompile-f2xpck"
+      binary: "C:/Users/ned1_/Projects/RareCell/build/x64-Release/CMakeFiles/CMakeScratch/TryCompile-f2xpck"
     cmakeVariables:
       CMAKE_CUDA_ARCHITECTURES: "75"
       CMAKE_CXX_FLAGS: "/DWIN32 /D_WINDOWS /EHsc"
       CMAKE_CXX_FLAGS_DEBUG: "/Zi /Ob0 /Od /RTC1"
       CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
       CMAKE_POSITION_INDEPENDENT_CODE: "ON"
-      VCPKG_INSTALLED_DIR: "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/vcpkg/installed"
+      VCPKG_INSTALLED_DIR: "C:/dev/vcpkg/installed"
       VCPKG_PREFER_SYSTEM_LIBS: "OFF"
       VCPKG_TARGET_TRIPLET: "x64-windows"
-      Z_VCPKG_ROOT_DIR: "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/vcpkg"
+      Z_VCPKG_ROOT_DIR: "C:/dev/vcpkg"
     buildResult:
       variable: "MPI_RESULT_CXX_test_mpi_MPICXX"
       cached: true
       stdout: |
-        Change Dir: 'C:/Users/ned1_/Projects/RareCell/build/x64-Release/CMakeFiles/CMakeScratch/TryCompile-deac8b'
+        Change Dir: 'C:/Users/ned1_/Projects/RareCell/build/x64-Release/CMakeFiles/CMakeScratch/TryCompile-f2xpck'
         
-        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_4a210
-        [1/2] C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1442~1.344\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP  -external:I"C:\\Program Files (x86)\\Microsoft SDKs\\MPI\\Include" -external:W0 /DWIN32 /D_WINDOWS /EHsc  /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /showIncludes /FoCMakeFiles\\cmTC_4a210.dir\\test_mpi.cpp.obj /FdCMakeFiles\\cmTC_4a210.dir\\ /FS -c C:\\Users\\ned1_\\Projects\\RareCell\\build\\x64-Release\\CMakeFiles\\CMakeScratch\\TryCompile-deac8b\\test_mpi.cpp
-        [2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --msvc-ver=1942 --intdir=CMakeFiles\\cmTC_4a210.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1442~1.344\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_4a210.dir\\test_mpi.cpp.obj  /out:cmTC_4a210.exe /implib:cmTC_4a210.lib /pdb:cmTC_4a210.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  "C:\\Program Files (x86)\\Microsoft SDKs\\MPI\\Lib\\x64\\msmpi.lib"  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_c4c95
+        [1/2] C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1442~1.344\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP  -external:I"C:\\Program Files (x86)\\Microsoft SDKs\\MPI\\Include" -external:W0 /DWIN32 /D_WINDOWS /EHsc  /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /showIncludes /FoCMakeFiles\\cmTC_c4c95.dir\\test_mpi.cpp.obj /FdCMakeFiles\\cmTC_c4c95.dir\\ /FS -c C:\\Users\\ned1_\\Projects\\RareCell\\build\\x64-Release\\CMakeFiles\\CMakeScratch\\TryCompile-f2xpck\\test_mpi.cpp
+        [2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --msvc-ver=1942 --intdir=CMakeFiles\\cmTC_c4c95.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1442~1.344\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_c4c95.dir\\test_mpi.cpp.obj  /out:cmTC_c4c95.exe /implib:cmTC_c4c95.lib /pdb:cmTC_c4c95.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  "C:\\Program Files (x86)\\Microsoft SDKs\\MPI\\Lib\\x64\\msmpi.lib"  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
         
       exitCode: 0
 ...
@@ -827,31 +870,67 @@ events:
       - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/FindMPI.cmake:1283 (try_compile)"
       - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/FindMPI.cmake:1327 (_MPI_try_staged_settings)"
       - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/FindMPI.cmake:1650 (_MPI_check_lang_works)"
-      - "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/vcpkg/scripts/buildsystems/vcpkg.cmake:893 (_find_package)"
+      - "C:/dev/vcpkg/scripts/buildsystems/vcpkg.cmake:898 (_find_package)"
       - "CMakeLists.txt:36 (find_package)"
     description: "The MPI test test_mpi for CXX in mode normal"
     directories:
-      source: "C:/Users/ned1_/Projects/RareCell/build/x64-Release/CMakeFiles/CMakeScratch/TryCompile-xw22de"
-      binary: "C:/Users/ned1_/Projects/RareCell/build/x64-Release/CMakeFiles/CMakeScratch/TryCompile-xw22de"
+      source: "C:/Users/ned1_/Projects/RareCell/build/x64-Release/CMakeFiles/CMakeScratch/TryCompile-n2anms"
+      binary: "C:/Users/ned1_/Projects/RareCell/build/x64-Release/CMakeFiles/CMakeScratch/TryCompile-n2anms"
     cmakeVariables:
       CMAKE_CUDA_ARCHITECTURES: "75"
       CMAKE_CXX_FLAGS: "/DWIN32 /D_WINDOWS /EHsc"
       CMAKE_CXX_FLAGS_DEBUG: "/Zi /Ob0 /Od /RTC1"
       CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
       CMAKE_POSITION_INDEPENDENT_CODE: "ON"
-      VCPKG_INSTALLED_DIR: "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/vcpkg/installed"
+      VCPKG_INSTALLED_DIR: "C:/dev/vcpkg/installed"
       VCPKG_PREFER_SYSTEM_LIBS: "OFF"
       VCPKG_TARGET_TRIPLET: "x64-windows"
-      Z_VCPKG_ROOT_DIR: "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/vcpkg"
+      Z_VCPKG_ROOT_DIR: "C:/dev/vcpkg"
     buildResult:
       variable: "MPI_RESULT_CXX_test_mpi_normal"
       cached: true
       stdout: |
-        Change Dir: 'C:/Users/ned1_/Projects/RareCell/build/x64-Release/CMakeFiles/CMakeScratch/TryCompile-xw22de'
+        Change Dir: 'C:/Users/ned1_/Projects/RareCell/build/x64-Release/CMakeFiles/CMakeScratch/TryCompile-n2anms'
         
-        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_87929
-        [1/2] C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1442~1.344\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP  -external:I"C:\\Program Files (x86)\\Microsoft SDKs\\MPI\\Include" -external:W0 /DWIN32 /D_WINDOWS /EHsc  /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /showIncludes /FoCMakeFiles\\cmTC_87929.dir\\test_mpi.cpp.obj /FdCMakeFiles\\cmTC_87929.dir\\ /FS -c C:\\Users\\ned1_\\Projects\\RareCell\\build\\x64-Release\\CMakeFiles\\CMakeScratch\\TryCompile-xw22de\\test_mpi.cpp
-        [2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --msvc-ver=1942 --intdir=CMakeFiles\\cmTC_87929.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1442~1.344\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_87929.dir\\test_mpi.cpp.obj  /out:cmTC_87929.exe /implib:cmTC_87929.lib /pdb:cmTC_87929.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  "C:\\Program Files (x86)\\Microsoft SDKs\\MPI\\Lib\\x64\\msmpi.lib"  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_617a7
+        [1/2] C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1442~1.344\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP  -external:I"C:\\Program Files (x86)\\Microsoft SDKs\\MPI\\Include" -external:W0 /DWIN32 /D_WINDOWS /EHsc  /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /showIncludes /FoCMakeFiles\\cmTC_617a7.dir\\test_mpi.cpp.obj /FdCMakeFiles\\cmTC_617a7.dir\\ /FS -c C:\\Users\\ned1_\\Projects\\RareCell\\build\\x64-Release\\CMakeFiles\\CMakeScratch\\TryCompile-n2anms\\test_mpi.cpp
+        [2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --msvc-ver=1942 --intdir=CMakeFiles\\cmTC_617a7.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1442~1.344\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_617a7.dir\\test_mpi.cpp.obj  /out:cmTC_617a7.exe /implib:cmTC_617a7.lib /pdb:cmTC_617a7.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  "C:\\Program Files (x86)\\Microsoft SDKs\\MPI\\Lib\\x64\\msmpi.lib"  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        
+      exitCode: 0
+
+---
+events:
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/FindMPI.cmake:1283 (try_compile)"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/FindMPI.cmake:1327 (_MPI_try_staged_settings)"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/FindMPI.cmake:1650 (_MPI_check_lang_works)"
+      - "C:/dev/vcpkg/scripts/buildsystems/vcpkg.cmake:898 (_find_package)"
+      - "CMakeLists.txt:36 (find_package)"
+    description: "The MPI test test_mpi for CXX in mode normal"
+    directories:
+      source: "C:/Users/ned1_/Projects/RareCell/build/x64-Release/CMakeFiles/CMakeScratch/TryCompile-ity29m"
+      binary: "C:/Users/ned1_/Projects/RareCell/build/x64-Release/CMakeFiles/CMakeScratch/TryCompile-ity29m"
+    cmakeVariables:
+      CMAKE_CUDA_ARCHITECTURES: "75"
+      CMAKE_CXX_FLAGS: "/DWIN32 /D_WINDOWS /EHsc"
+      CMAKE_CXX_FLAGS_DEBUG: "/Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_POSITION_INDEPENDENT_CODE: "ON"
+      VCPKG_INSTALLED_DIR: "C:/dev/vcpkg/installed"
+      VCPKG_PREFER_SYSTEM_LIBS: "OFF"
+      VCPKG_TARGET_TRIPLET: "x64-windows"
+      Z_VCPKG_ROOT_DIR: "C:/dev/vcpkg"
+    buildResult:
+      variable: "MPI_RESULT_CXX_test_mpi_normal"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/Users/ned1_/Projects/RareCell/build/x64-Release/CMakeFiles/CMakeScratch/TryCompile-ity29m'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_377f5
+        [1/2] C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1442~1.344\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP  -external:I"C:\\Program Files (x86)\\Microsoft SDKs\\MPI\\Include" -external:W0 /DWIN32 /D_WINDOWS /EHsc  /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /showIncludes /FoCMakeFiles\\cmTC_377f5.dir\\test_mpi.cpp.obj /FdCMakeFiles\\cmTC_377f5.dir\\ /FS -c C:\\Users\\ned1_\\Projects\\RareCell\\build\\x64-Release\\CMakeFiles\\CMakeScratch\\TryCompile-ity29m\\test_mpi.cpp
+        [2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --msvc-ver=1942 --intdir=CMakeFiles\\cmTC_377f5.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1442~1.344\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_377f5.dir\\test_mpi.cpp.obj  /out:cmTC_377f5.exe /implib:cmTC_377f5.lib /pdb:cmTC_377f5.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  "C:\\Program Files (x86)\\Microsoft SDKs\\MPI\\Lib\\x64\\msmpi.lib"  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
         
       exitCode: 0
   -
@@ -859,31 +938,31 @@ events:
     backtrace:
       - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/FindMPI.cmake:1283 (try_compile)"
       - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/FindMPI.cmake:1677 (_MPI_try_staged_settings)"
-      - "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/vcpkg/scripts/buildsystems/vcpkg.cmake:893 (_find_package)"
+      - "C:/dev/vcpkg/scripts/buildsystems/vcpkg.cmake:898 (_find_package)"
       - "CMakeLists.txt:36 (find_package)"
     description: "The MPI test test_mpi for CXX in mode MPICXX"
     directories:
-      source: "C:/Users/ned1_/Projects/RareCell/build/x64-Release/CMakeFiles/CMakeScratch/TryCompile-xxh3oe"
-      binary: "C:/Users/ned1_/Projects/RareCell/build/x64-Release/CMakeFiles/CMakeScratch/TryCompile-xxh3oe"
+      source: "C:/Users/ned1_/Projects/RareCell/build/x64-Release/CMakeFiles/CMakeScratch/TryCompile-yykeyy"
+      binary: "C:/Users/ned1_/Projects/RareCell/build/x64-Release/CMakeFiles/CMakeScratch/TryCompile-yykeyy"
     cmakeVariables:
       CMAKE_CUDA_ARCHITECTURES: "75"
       CMAKE_CXX_FLAGS: "/DWIN32 /D_WINDOWS /EHsc"
       CMAKE_CXX_FLAGS_DEBUG: "/Zi /Ob0 /Od /RTC1"
       CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
       CMAKE_POSITION_INDEPENDENT_CODE: "ON"
-      VCPKG_INSTALLED_DIR: "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/vcpkg/installed"
+      VCPKG_INSTALLED_DIR: "C:/dev/vcpkg/installed"
       VCPKG_PREFER_SYSTEM_LIBS: "OFF"
       VCPKG_TARGET_TRIPLET: "x64-windows"
-      Z_VCPKG_ROOT_DIR: "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/vcpkg"
+      Z_VCPKG_ROOT_DIR: "C:/dev/vcpkg"
     buildResult:
       variable: "MPI_RESULT_CXX_test_mpi_MPICXX"
       cached: true
       stdout: |
-        Change Dir: 'C:/Users/ned1_/Projects/RareCell/build/x64-Release/CMakeFiles/CMakeScratch/TryCompile-xxh3oe'
+        Change Dir: 'C:/Users/ned1_/Projects/RareCell/build/x64-Release/CMakeFiles/CMakeScratch/TryCompile-yykeyy'
         
-        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_ff788
-        [1/2] C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1442~1.344\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP  -external:I"C:\\Program Files (x86)\\Microsoft SDKs\\MPI\\Include" -external:W0 /DWIN32 /D_WINDOWS /EHsc  /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /showIncludes /FoCMakeFiles\\cmTC_ff788.dir\\test_mpi.cpp.obj /FdCMakeFiles\\cmTC_ff788.dir\\ /FS -c C:\\Users\\ned1_\\Projects\\RareCell\\build\\x64-Release\\CMakeFiles\\CMakeScratch\\TryCompile-xxh3oe\\test_mpi.cpp
-        [2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --msvc-ver=1942 --intdir=CMakeFiles\\cmTC_ff788.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1442~1.344\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_ff788.dir\\test_mpi.cpp.obj  /out:cmTC_ff788.exe /implib:cmTC_ff788.lib /pdb:cmTC_ff788.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  "C:\\Program Files (x86)\\Microsoft SDKs\\MPI\\Lib\\x64\\msmpi.lib"  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_8ae1a
+        [1/2] C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1442~1.344\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP  -external:I"C:\\Program Files (x86)\\Microsoft SDKs\\MPI\\Include" -external:W0 /DWIN32 /D_WINDOWS /EHsc  /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /showIncludes /FoCMakeFiles\\cmTC_8ae1a.dir\\test_mpi.cpp.obj /FdCMakeFiles\\cmTC_8ae1a.dir\\ /FS -c C:\\Users\\ned1_\\Projects\\RareCell\\build\\x64-Release\\CMakeFiles\\CMakeScratch\\TryCompile-yykeyy\\test_mpi.cpp
+        [2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --msvc-ver=1942 --intdir=CMakeFiles\\cmTC_8ae1a.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1442~1.344\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_8ae1a.dir\\test_mpi.cpp.obj  /out:cmTC_8ae1a.exe /implib:cmTC_8ae1a.lib /pdb:cmTC_8ae1a.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  "C:\\Program Files (x86)\\Microsoft SDKs\\MPI\\Lib\\x64\\msmpi.lib"  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
         
       exitCode: 0
 ...
@@ -896,31 +975,31 @@ events:
       - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/FindMPI.cmake:1283 (try_compile)"
       - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/FindMPI.cmake:1327 (_MPI_try_staged_settings)"
       - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/FindMPI.cmake:1650 (_MPI_check_lang_works)"
-      - "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/vcpkg/scripts/buildsystems/vcpkg.cmake:893 (_find_package)"
+      - "C:/dev/vcpkg/scripts/buildsystems/vcpkg.cmake:898 (_find_package)"
       - "CMakeLists.txt:36 (find_package)"
     description: "The MPI test test_mpi for CXX in mode normal"
     directories:
-      source: "C:/Users/ned1_/Projects/RareCell/build/x64-Release/CMakeFiles/CMakeScratch/TryCompile-bq0n45"
-      binary: "C:/Users/ned1_/Projects/RareCell/build/x64-Release/CMakeFiles/CMakeScratch/TryCompile-bq0n45"
+      source: "C:/Users/ned1_/Projects/RareCell/build/x64-Release/CMakeFiles/CMakeScratch/TryCompile-ac7xq8"
+      binary: "C:/Users/ned1_/Projects/RareCell/build/x64-Release/CMakeFiles/CMakeScratch/TryCompile-ac7xq8"
     cmakeVariables:
       CMAKE_CUDA_ARCHITECTURES: "75"
       CMAKE_CXX_FLAGS: "/DWIN32 /D_WINDOWS /EHsc"
       CMAKE_CXX_FLAGS_DEBUG: "/Zi /Ob0 /Od /RTC1"
       CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
       CMAKE_POSITION_INDEPENDENT_CODE: "ON"
-      VCPKG_INSTALLED_DIR: "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/vcpkg/installed"
+      VCPKG_INSTALLED_DIR: "C:/dev/vcpkg/installed"
       VCPKG_PREFER_SYSTEM_LIBS: "OFF"
       VCPKG_TARGET_TRIPLET: "x64-windows"
-      Z_VCPKG_ROOT_DIR: "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/vcpkg"
+      Z_VCPKG_ROOT_DIR: "C:/dev/vcpkg"
     buildResult:
       variable: "MPI_RESULT_CXX_test_mpi_normal"
       cached: true
       stdout: |
-        Change Dir: 'C:/Users/ned1_/Projects/RareCell/build/x64-Release/CMakeFiles/CMakeScratch/TryCompile-bq0n45'
+        Change Dir: 'C:/Users/ned1_/Projects/RareCell/build/x64-Release/CMakeFiles/CMakeScratch/TryCompile-ac7xq8'
         
-        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_87cfa
-        [1/2] C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1442~1.344\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP  -external:I"C:\\Program Files (x86)\\Microsoft SDKs\\MPI\\Include" -external:W0 /DWIN32 /D_WINDOWS /EHsc  /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /showIncludes /FoCMakeFiles\\cmTC_87cfa.dir\\test_mpi.cpp.obj /FdCMakeFiles\\cmTC_87cfa.dir\\ /FS -c C:\\Users\\ned1_\\Projects\\RareCell\\build\\x64-Release\\CMakeFiles\\CMakeScratch\\TryCompile-bq0n45\\test_mpi.cpp
-        [2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --msvc-ver=1942 --intdir=CMakeFiles\\cmTC_87cfa.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1442~1.344\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_87cfa.dir\\test_mpi.cpp.obj  /out:cmTC_87cfa.exe /implib:cmTC_87cfa.lib /pdb:cmTC_87cfa.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  "C:\\Program Files (x86)\\Microsoft SDKs\\MPI\\Lib\\x64\\msmpi.lib"  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_2848c
+        [1/2] C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1442~1.344\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP  -external:I"C:\\Program Files (x86)\\Microsoft SDKs\\MPI\\Include" -external:W0 /DWIN32 /D_WINDOWS /EHsc  /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /showIncludes /FoCMakeFiles\\cmTC_2848c.dir\\test_mpi.cpp.obj /FdCMakeFiles\\cmTC_2848c.dir\\ /FS -c C:\\Users\\ned1_\\Projects\\RareCell\\build\\x64-Release\\CMakeFiles\\CMakeScratch\\TryCompile-ac7xq8\\test_mpi.cpp
+        [2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --msvc-ver=1942 --intdir=CMakeFiles\\cmTC_2848c.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1442~1.344\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_2848c.dir\\test_mpi.cpp.obj  /out:cmTC_2848c.exe /implib:cmTC_2848c.lib /pdb:cmTC_2848c.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  "C:\\Program Files (x86)\\Microsoft SDKs\\MPI\\Lib\\x64\\msmpi.lib"  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
         
       exitCode: 0
   -
@@ -928,31 +1007,31 @@ events:
     backtrace:
       - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/FindMPI.cmake:1283 (try_compile)"
       - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/FindMPI.cmake:1677 (_MPI_try_staged_settings)"
-      - "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/vcpkg/scripts/buildsystems/vcpkg.cmake:893 (_find_package)"
+      - "C:/dev/vcpkg/scripts/buildsystems/vcpkg.cmake:898 (_find_package)"
       - "CMakeLists.txt:36 (find_package)"
     description: "The MPI test test_mpi for CXX in mode MPICXX"
     directories:
-      source: "C:/Users/ned1_/Projects/RareCell/build/x64-Release/CMakeFiles/CMakeScratch/TryCompile-xm7bjg"
-      binary: "C:/Users/ned1_/Projects/RareCell/build/x64-Release/CMakeFiles/CMakeScratch/TryCompile-xm7bjg"
+      source: "C:/Users/ned1_/Projects/RareCell/build/x64-Release/CMakeFiles/CMakeScratch/TryCompile-a1k2sa"
+      binary: "C:/Users/ned1_/Projects/RareCell/build/x64-Release/CMakeFiles/CMakeScratch/TryCompile-a1k2sa"
     cmakeVariables:
       CMAKE_CUDA_ARCHITECTURES: "75"
       CMAKE_CXX_FLAGS: "/DWIN32 /D_WINDOWS /EHsc"
       CMAKE_CXX_FLAGS_DEBUG: "/Zi /Ob0 /Od /RTC1"
       CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
       CMAKE_POSITION_INDEPENDENT_CODE: "ON"
-      VCPKG_INSTALLED_DIR: "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/vcpkg/installed"
+      VCPKG_INSTALLED_DIR: "C:/dev/vcpkg/installed"
       VCPKG_PREFER_SYSTEM_LIBS: "OFF"
       VCPKG_TARGET_TRIPLET: "x64-windows"
-      Z_VCPKG_ROOT_DIR: "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/vcpkg"
+      Z_VCPKG_ROOT_DIR: "C:/dev/vcpkg"
     buildResult:
       variable: "MPI_RESULT_CXX_test_mpi_MPICXX"
       cached: true
       stdout: |
-        Change Dir: 'C:/Users/ned1_/Projects/RareCell/build/x64-Release/CMakeFiles/CMakeScratch/TryCompile-xm7bjg'
+        Change Dir: 'C:/Users/ned1_/Projects/RareCell/build/x64-Release/CMakeFiles/CMakeScratch/TryCompile-a1k2sa'
         
-        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_75f52
-        [1/2] C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1442~1.344\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP  -external:I"C:\\Program Files (x86)\\Microsoft SDKs\\MPI\\Include" -external:W0 /DWIN32 /D_WINDOWS /EHsc  /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /showIncludes /FoCMakeFiles\\cmTC_75f52.dir\\test_mpi.cpp.obj /FdCMakeFiles\\cmTC_75f52.dir\\ /FS -c C:\\Users\\ned1_\\Projects\\RareCell\\build\\x64-Release\\CMakeFiles\\CMakeScratch\\TryCompile-xm7bjg\\test_mpi.cpp
-        [2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --msvc-ver=1942 --intdir=CMakeFiles\\cmTC_75f52.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1442~1.344\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_75f52.dir\\test_mpi.cpp.obj  /out:cmTC_75f52.exe /implib:cmTC_75f52.lib /pdb:cmTC_75f52.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  "C:\\Program Files (x86)\\Microsoft SDKs\\MPI\\Lib\\x64\\msmpi.lib"  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_59741
+        [1/2] C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1442~1.344\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP  -external:I"C:\\Program Files (x86)\\Microsoft SDKs\\MPI\\Include" -external:W0 /DWIN32 /D_WINDOWS /EHsc  /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /showIncludes /FoCMakeFiles\\cmTC_59741.dir\\test_mpi.cpp.obj /FdCMakeFiles\\cmTC_59741.dir\\ /FS -c C:\\Users\\ned1_\\Projects\\RareCell\\build\\x64-Release\\CMakeFiles\\CMakeScratch\\TryCompile-a1k2sa\\test_mpi.cpp
+        [2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --msvc-ver=1942 --intdir=CMakeFiles\\cmTC_59741.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1442~1.344\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_59741.dir\\test_mpi.cpp.obj  /out:cmTC_59741.exe /implib:cmTC_59741.lib /pdb:cmTC_59741.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  "C:\\Program Files (x86)\\Microsoft SDKs\\MPI\\Lib\\x64\\msmpi.lib"  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
         
       exitCode: 0
 ...
@@ -965,31 +1044,31 @@ events:
       - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/FindMPI.cmake:1283 (try_compile)"
       - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/FindMPI.cmake:1327 (_MPI_try_staged_settings)"
       - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/FindMPI.cmake:1650 (_MPI_check_lang_works)"
-      - "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/vcpkg/scripts/buildsystems/vcpkg.cmake:893 (_find_package)"
+      - "C:/dev/vcpkg/scripts/buildsystems/vcpkg.cmake:898 (_find_package)"
       - "CMakeLists.txt:36 (find_package)"
     description: "The MPI test test_mpi for CXX in mode normal"
     directories:
-      source: "C:/Users/ned1_/Projects/RareCell/build/x64-Release/CMakeFiles/CMakeScratch/TryCompile-13bzxq"
-      binary: "C:/Users/ned1_/Projects/RareCell/build/x64-Release/CMakeFiles/CMakeScratch/TryCompile-13bzxq"
+      source: "C:/Users/ned1_/Projects/RareCell/build/x64-Release/CMakeFiles/CMakeScratch/TryCompile-8n2rmy"
+      binary: "C:/Users/ned1_/Projects/RareCell/build/x64-Release/CMakeFiles/CMakeScratch/TryCompile-8n2rmy"
     cmakeVariables:
       CMAKE_CUDA_ARCHITECTURES: "75"
       CMAKE_CXX_FLAGS: "/DWIN32 /D_WINDOWS /EHsc"
       CMAKE_CXX_FLAGS_DEBUG: "/Zi /Ob0 /Od /RTC1"
       CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
       CMAKE_POSITION_INDEPENDENT_CODE: "ON"
-      VCPKG_INSTALLED_DIR: "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/vcpkg/installed"
+      VCPKG_INSTALLED_DIR: "C:/dev/vcpkg/installed"
       VCPKG_PREFER_SYSTEM_LIBS: "OFF"
       VCPKG_TARGET_TRIPLET: "x64-windows"
-      Z_VCPKG_ROOT_DIR: "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/vcpkg"
+      Z_VCPKG_ROOT_DIR: "C:/dev/vcpkg"
     buildResult:
       variable: "MPI_RESULT_CXX_test_mpi_normal"
       cached: true
       stdout: |
-        Change Dir: 'C:/Users/ned1_/Projects/RareCell/build/x64-Release/CMakeFiles/CMakeScratch/TryCompile-13bzxq'
+        Change Dir: 'C:/Users/ned1_/Projects/RareCell/build/x64-Release/CMakeFiles/CMakeScratch/TryCompile-8n2rmy'
         
-        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_4bb28
-        [1/2] C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1442~1.344\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP  -external:I"C:\\Program Files (x86)\\Microsoft SDKs\\MPI\\Include" -external:W0 /DWIN32 /D_WINDOWS /EHsc  /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /showIncludes /FoCMakeFiles\\cmTC_4bb28.dir\\test_mpi.cpp.obj /FdCMakeFiles\\cmTC_4bb28.dir\\ /FS -c C:\\Users\\ned1_\\Projects\\RareCell\\build\\x64-Release\\CMakeFiles\\CMakeScratch\\TryCompile-13bzxq\\test_mpi.cpp
-        [2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --msvc-ver=1942 --intdir=CMakeFiles\\cmTC_4bb28.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1442~1.344\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_4bb28.dir\\test_mpi.cpp.obj  /out:cmTC_4bb28.exe /implib:cmTC_4bb28.lib /pdb:cmTC_4bb28.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  "C:\\Program Files (x86)\\Microsoft SDKs\\MPI\\Lib\\x64\\msmpi.lib"  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_cbcdf
+        [1/2] C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1442~1.344\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP  -external:I"C:\\Program Files (x86)\\Microsoft SDKs\\MPI\\Include" -external:W0 /DWIN32 /D_WINDOWS /EHsc  /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /showIncludes /FoCMakeFiles\\cmTC_cbcdf.dir\\test_mpi.cpp.obj /FdCMakeFiles\\cmTC_cbcdf.dir\\ /FS -c C:\\Users\\ned1_\\Projects\\RareCell\\build\\x64-Release\\CMakeFiles\\CMakeScratch\\TryCompile-8n2rmy\\test_mpi.cpp
+        [2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --msvc-ver=1942 --intdir=CMakeFiles\\cmTC_cbcdf.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1442~1.344\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_cbcdf.dir\\test_mpi.cpp.obj  /out:cmTC_cbcdf.exe /implib:cmTC_cbcdf.lib /pdb:cmTC_cbcdf.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  "C:\\Program Files (x86)\\Microsoft SDKs\\MPI\\Lib\\x64\\msmpi.lib"  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
         
       exitCode: 0
   -
@@ -997,31 +1076,100 @@ events:
     backtrace:
       - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/FindMPI.cmake:1283 (try_compile)"
       - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/FindMPI.cmake:1677 (_MPI_try_staged_settings)"
-      - "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/vcpkg/scripts/buildsystems/vcpkg.cmake:893 (_find_package)"
+      - "C:/dev/vcpkg/scripts/buildsystems/vcpkg.cmake:898 (_find_package)"
       - "CMakeLists.txt:36 (find_package)"
     description: "The MPI test test_mpi for CXX in mode MPICXX"
     directories:
-      source: "C:/Users/ned1_/Projects/RareCell/build/x64-Release/CMakeFiles/CMakeScratch/TryCompile-5fgamz"
-      binary: "C:/Users/ned1_/Projects/RareCell/build/x64-Release/CMakeFiles/CMakeScratch/TryCompile-5fgamz"
+      source: "C:/Users/ned1_/Projects/RareCell/build/x64-Release/CMakeFiles/CMakeScratch/TryCompile-lf6aep"
+      binary: "C:/Users/ned1_/Projects/RareCell/build/x64-Release/CMakeFiles/CMakeScratch/TryCompile-lf6aep"
     cmakeVariables:
       CMAKE_CUDA_ARCHITECTURES: "75"
       CMAKE_CXX_FLAGS: "/DWIN32 /D_WINDOWS /EHsc"
       CMAKE_CXX_FLAGS_DEBUG: "/Zi /Ob0 /Od /RTC1"
       CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
       CMAKE_POSITION_INDEPENDENT_CODE: "ON"
-      VCPKG_INSTALLED_DIR: "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/vcpkg/installed"
+      VCPKG_INSTALLED_DIR: "C:/dev/vcpkg/installed"
       VCPKG_PREFER_SYSTEM_LIBS: "OFF"
       VCPKG_TARGET_TRIPLET: "x64-windows"
-      Z_VCPKG_ROOT_DIR: "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/vcpkg"
+      Z_VCPKG_ROOT_DIR: "C:/dev/vcpkg"
     buildResult:
       variable: "MPI_RESULT_CXX_test_mpi_MPICXX"
       cached: true
       stdout: |
-        Change Dir: 'C:/Users/ned1_/Projects/RareCell/build/x64-Release/CMakeFiles/CMakeScratch/TryCompile-5fgamz'
+        Change Dir: 'C:/Users/ned1_/Projects/RareCell/build/x64-Release/CMakeFiles/CMakeScratch/TryCompile-lf6aep'
         
-        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_005fb
-        [1/2] C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1442~1.344\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP  -external:I"C:\\Program Files (x86)\\Microsoft SDKs\\MPI\\Include" -external:W0 /DWIN32 /D_WINDOWS /EHsc  /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /showIncludes /FoCMakeFiles\\cmTC_005fb.dir\\test_mpi.cpp.obj /FdCMakeFiles\\cmTC_005fb.dir\\ /FS -c C:\\Users\\ned1_\\Projects\\RareCell\\build\\x64-Release\\CMakeFiles\\CMakeScratch\\TryCompile-5fgamz\\test_mpi.cpp
-        [2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --msvc-ver=1942 --intdir=CMakeFiles\\cmTC_005fb.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1442~1.344\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_005fb.dir\\test_mpi.cpp.obj  /out:cmTC_005fb.exe /implib:cmTC_005fb.lib /pdb:cmTC_005fb.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  "C:\\Program Files (x86)\\Microsoft SDKs\\MPI\\Lib\\x64\\msmpi.lib"  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_b872a
+        [1/2] C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1442~1.344\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP  -external:I"C:\\Program Files (x86)\\Microsoft SDKs\\MPI\\Include" -external:W0 /DWIN32 /D_WINDOWS /EHsc  /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /showIncludes /FoCMakeFiles\\cmTC_b872a.dir\\test_mpi.cpp.obj /FdCMakeFiles\\cmTC_b872a.dir\\ /FS -c C:\\Users\\ned1_\\Projects\\RareCell\\build\\x64-Release\\CMakeFiles\\CMakeScratch\\TryCompile-lf6aep\\test_mpi.cpp
+        [2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --msvc-ver=1942 --intdir=CMakeFiles\\cmTC_b872a.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1442~1.344\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_b872a.dir\\test_mpi.cpp.obj  /out:cmTC_b872a.exe /implib:cmTC_b872a.lib /pdb:cmTC_b872a.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  "C:\\Program Files (x86)\\Microsoft SDKs\\MPI\\Lib\\x64\\msmpi.lib"  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        
+      exitCode: 0
+...
+
+---
+events:
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/FindMPI.cmake:1283 (try_compile)"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/FindMPI.cmake:1327 (_MPI_try_staged_settings)"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/FindMPI.cmake:1650 (_MPI_check_lang_works)"
+      - "C:/dev/vcpkg/scripts/buildsystems/vcpkg.cmake:898 (_find_package)"
+      - "CMakeLists.txt:36 (find_package)"
+    description: "The MPI test test_mpi for CXX in mode normal"
+    directories:
+      source: "C:/Users/ned1_/Projects/RareCell/build/x64-Release/CMakeFiles/CMakeScratch/TryCompile-2dfe08"
+      binary: "C:/Users/ned1_/Projects/RareCell/build/x64-Release/CMakeFiles/CMakeScratch/TryCompile-2dfe08"
+    cmakeVariables:
+      CMAKE_CUDA_ARCHITECTURES: "75"
+      CMAKE_CXX_FLAGS: "/DWIN32 /D_WINDOWS /EHsc"
+      CMAKE_CXX_FLAGS_DEBUG: "/Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_POSITION_INDEPENDENT_CODE: "ON"
+      VCPKG_INSTALLED_DIR: "C:/dev/vcpkg/installed"
+      VCPKG_PREFER_SYSTEM_LIBS: "OFF"
+      VCPKG_TARGET_TRIPLET: "x64-windows"
+      Z_VCPKG_ROOT_DIR: "C:/dev/vcpkg"
+    buildResult:
+      variable: "MPI_RESULT_CXX_test_mpi_normal"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/Users/ned1_/Projects/RareCell/build/x64-Release/CMakeFiles/CMakeScratch/TryCompile-2dfe08'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_9bde6
+        [1/2] C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1442~1.344\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP  -external:I"C:\\Program Files (x86)\\Microsoft SDKs\\MPI\\Include" -external:W0 /DWIN32 /D_WINDOWS /EHsc  /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /showIncludes /FoCMakeFiles\\cmTC_9bde6.dir\\test_mpi.cpp.obj /FdCMakeFiles\\cmTC_9bde6.dir\\ /FS -c C:\\Users\\ned1_\\Projects\\RareCell\\build\\x64-Release\\CMakeFiles\\CMakeScratch\\TryCompile-2dfe08\\test_mpi.cpp
+        [2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --msvc-ver=1942 --intdir=CMakeFiles\\cmTC_9bde6.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1442~1.344\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_9bde6.dir\\test_mpi.cpp.obj  /out:cmTC_9bde6.exe /implib:cmTC_9bde6.lib /pdb:cmTC_9bde6.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  "C:\\Program Files (x86)\\Microsoft SDKs\\MPI\\Lib\\x64\\msmpi.lib"  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        
+      exitCode: 0
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/FindMPI.cmake:1283 (try_compile)"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/FindMPI.cmake:1677 (_MPI_try_staged_settings)"
+      - "C:/dev/vcpkg/scripts/buildsystems/vcpkg.cmake:898 (_find_package)"
+      - "CMakeLists.txt:36 (find_package)"
+    description: "The MPI test test_mpi for CXX in mode MPICXX"
+    directories:
+      source: "C:/Users/ned1_/Projects/RareCell/build/x64-Release/CMakeFiles/CMakeScratch/TryCompile-oji06t"
+      binary: "C:/Users/ned1_/Projects/RareCell/build/x64-Release/CMakeFiles/CMakeScratch/TryCompile-oji06t"
+    cmakeVariables:
+      CMAKE_CUDA_ARCHITECTURES: "75"
+      CMAKE_CXX_FLAGS: "/DWIN32 /D_WINDOWS /EHsc"
+      CMAKE_CXX_FLAGS_DEBUG: "/Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_POSITION_INDEPENDENT_CODE: "ON"
+      VCPKG_INSTALLED_DIR: "C:/dev/vcpkg/installed"
+      VCPKG_PREFER_SYSTEM_LIBS: "OFF"
+      VCPKG_TARGET_TRIPLET: "x64-windows"
+      Z_VCPKG_ROOT_DIR: "C:/dev/vcpkg"
+    buildResult:
+      variable: "MPI_RESULT_CXX_test_mpi_MPICXX"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/Users/ned1_/Projects/RareCell/build/x64-Release/CMakeFiles/CMakeScratch/TryCompile-oji06t'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_f0974
+        [1/2] C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1442~1.344\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP  -external:I"C:\\Program Files (x86)\\Microsoft SDKs\\MPI\\Include" -external:W0 /DWIN32 /D_WINDOWS /EHsc  /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /showIncludes /FoCMakeFiles\\cmTC_f0974.dir\\test_mpi.cpp.obj /FdCMakeFiles\\cmTC_f0974.dir\\ /FS -c C:\\Users\\ned1_\\Projects\\RareCell\\build\\x64-Release\\CMakeFiles\\CMakeScratch\\TryCompile-oji06t\\test_mpi.cpp
+        [2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --msvc-ver=1942 --intdir=CMakeFiles\\cmTC_f0974.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1442~1.344\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_f0974.dir\\test_mpi.cpp.obj  /out:cmTC_f0974.exe /implib:cmTC_f0974.lib /pdb:cmTC_f0974.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  "C:\\Program Files (x86)\\Microsoft SDKs\\MPI\\Lib\\x64\\msmpi.lib"  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
         
       exitCode: 0
 ...

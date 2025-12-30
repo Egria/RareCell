@@ -60,6 +60,17 @@ namespace rarecell {
         set_if_number(j, "log2_cutoffh", cfg.log2_cutoffh);
         set_if_number(j, "log2_cutoffl", cfg.log2_cutoffl);
 
+        // --- NEW: Palma params ---
+        set_if_number(j, "palma_alpha", cfg.palma_alpha);
+        set_if_number(j, "palma_upper", cfg.palma_upper);
+        set_if_number(j, "palma_lower", cfg.palma_lower);
+        set_if_number(j, "palma_winsor", cfg.palma_winsor);
+
+        // NEW: feature panel sizes
+        set_if_number(j, "gini_nfeatures", cfg.gini_nfeatures);
+        set_if_number(j, "fano_nfeatures", cfg.fano_nfeatures);
+        set_if_number(j, "palma_nfeatures", cfg.palma_nfeatures);
+
         // Strings
         set_if(j, "preprocess_method", cfg.preprocess_method);
         set_if(j, "output_folder", cfg.output_folder);

@@ -1,14 +1,21 @@
 {
   "expression_cutoff": 0.0,
-  "min_cells": 50,
+  "min_cells": 3,
   "min_genes": 200,
-  "log2_cutoffl": -5.0,
+  "log2_cutoffl": 0.0,
   "log2_cutoffh": 20.0,
-  "preprocess_method": "cpm",
-  "output_folder": "out_filter",
+  "preprocess_method": "none",
+  "output_folder": "../../out_dilute_1e-3",
   "write_dense_csv": false,
   "write_coo_csv": false,
   "remove_mir": true,
   "gene_name_column": "Gene",
-  "cell_type_column": "cell_type"
+  "cell_type_column": "cell_type",
+  "palma_alpha": 1e-6,
+  "palma_upper": 0.10,
+  "palma_lower": 0.80,
+  "palma_winsor": 0.00,
+  "gini_nfeatures": 350,
+  "fano_nfeatures": 450,
+  "palma_nfeatures": 200
 }

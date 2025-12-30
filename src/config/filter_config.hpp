@@ -25,6 +25,17 @@ namespace rarecell {
 
 		// Gene name screen
 		bool remove_mir = true;           // drop genes whose names contain "mir" (case-insensitive)
+
+		// Palma controls
+		float palma_alpha = 1e-6f;        // smoothing alpha
+		float palma_upper = 0.10f;        // top fraction
+		float palma_lower = 0.75f;        // bottom fraction
+		float palma_winsor = 0.00f;       // winsorization fraction
+
+		// ---------- NEW: feature panel sizes ----------
+		int gini_nfeatures = 350;
+		int fano_nfeatures = 450;
+		int palma_nfeatures = 200;
 	};
 
 	// Load from a JSON file on disk.

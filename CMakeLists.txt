@@ -124,11 +124,17 @@ add_executable(rarecell_reader
 target_link_libraries(rarecell_reader PUBLIC rarecell_filter)
 
 # ----------------------------------------
-# Library: metrics (Fano, Gini)
+# Library: metrics (Fano, Gini, Palma)
 # ----------------------------------------
 add_library(rarecell_metrics
   src/metrics/fano.cpp
   src/metrics/gini.cpp
+  src/metrics/palma.cpp
+  src/metrics/lowess.cpp
+  src/graph/selection.cpp
+  src/cuda/metrics_cuda.cu
+  src/graph/binarize.cpp
+  src/graph/knn.cpp
 )
 target_include_directories(rarecell_metrics PUBLIC src)
 target_link_libraries(rarecell_metrics PUBLIC MPI::MPI_CXX rarecell_filter)
