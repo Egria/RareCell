@@ -1,11 +1,11 @@
 {
   "expression_cutoff": 0.0,
   "min_cells": 3,
-  "min_genes": 200,
+  "min_genes": 20,
   "log2_cutoffl": 0.0,
   "log2_cutoffh": 20.0,
   "preprocess_method": "none",
-  "output_folder": "../../out_dilute_1e-3",
+  "output_folder": "../../out_filter",
   "write_dense_csv": false,
   "write_coo_csv": false,
   "remove_mir": true,
@@ -15,7 +15,10 @@
   "palma_upper": 0.10,
   "palma_lower": 0.80,
   "palma_winsor": 0.00,
-  "gini_nfeatures": 350,
-  "fano_nfeatures": 450,
-  "palma_nfeatures": 200
+  "gini_nfeatures": 50,
+  "fano_nfeatures": 500,
+  "palma_nfeatures": 850,
+  "gini_balance": 0.2,
+  "fano_balance": 0.8,
+  "palma_balance": 0.6
 }

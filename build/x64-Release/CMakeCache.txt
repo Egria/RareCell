@@ -537,6 +537,9 @@ Z_VCPKG_PWSH_PATH:FILEPATH=Z_VCPKG_PWSH_PATH-NOTFOUND
 // triplet
 _VCPKG_INSTALLED_DIR:PATH=C:/dev/vcpkg/installed
 
+//The directory containing a CMake configuration file for igraph.
+igraph_DIR:PATH=C:/dev/vcpkg/installed/x64-windows/share/igraph
+
 //The directory containing a CMake configuration file for nlohmann_json.
 nlohmann_json_DIR:PATH=C:/dev/vcpkg/installed/x64-windows/share/nlohmann_json
 

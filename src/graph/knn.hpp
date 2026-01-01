@@ -39,7 +39,7 @@ namespace rarecell {
         const BinaryPanel& panel,
         int k = 30,
         int block_size = 4096,
-        double df_cap_frac = 0.02,  // 2% default; tune 0.5–5% as needed. Use 1.0 to disable.
+        double df_cap_frac = 1.0,  // 2% default; tune 0.5–5% as needed. Use 1.0 to disable.
         bool verbose = true
     );
 

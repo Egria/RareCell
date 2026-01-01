@@ -36,6 +36,12 @@ namespace rarecell {
 		int gini_nfeatures = 350;
 		int fano_nfeatures = 450;
 		int palma_nfeatures = 200;
+
+
+		// Graph mix weights
+		float gini_balance = 0.2f;
+		float fano_balance = 0.8f;
+		float palma_balance = 0.6f;
 	};
 
 	// Load from a JSON file on disk.

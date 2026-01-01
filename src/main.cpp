@@ -15,11 +15,166 @@
 #include "cuda/metrics_cuda.hpp"
 #include "graph/binarize.hpp"
 #include "graph/knn.hpp"
+#include "graph/mix.hpp"
+#include "cluster/leiden.hpp"
+#include "refine/refine_pca_cosine.hpp"
 
 using rarecell::H5ADReader;
 using rarecell::H5ADReadResult;
 using rarecell::FilterConfig;
 using rarecell::FilterEngine;
+
+static void gather_and_write_labels_csv(
+    MPI_Comm comm,
+    const std::vector<int32_t>& labels_local,
+    const std::vector<std::string>& cell_ids_local,   // pass {} if you don't want IDs
+    const std::string& out_csv_path
+) {
+    int rank = 0, world = 1;
+    MPI_Comm_rank(comm, &rank);
+    MPI_Comm_size(comm, &world);
+
+    const int local_n = (int)labels_local.size();
+
+    // ---- gather counts (cells per rank) ----
+    std::vector<int> counts, displs;
+    if (rank == 0) {
+        counts.resize(world);
+        displs.resize(world);
+    }
+
+    MPI_Gather(&local_n, 1, MPI_INT,
+        rank == 0 ? counts.data() : nullptr, 1, MPI_INT,
+        0, comm);
+
+    int total_n = 0;
+    if (rank == 0) {
+        displs[0] = 0;
+        for (int r = 1; r < world; ++r) displs[r] = displs[r - 1] + counts[r - 1];
+        total_n = displs[world - 1] + counts[world - 1];
+    }
+
+    // ---- gather labels ----
+    std::vector<int32_t> labels_global;
+    if (rank == 0) labels_global.resize((size_t)total_n);
+
+#ifdef MPI_INT32_T
+    MPI_Datatype mpi_i32 = MPI_INT32_T;
+#else
+    MPI_Datatype mpi_i32 = MPI_INT; // MSVC int is 32-bit on Windows
+    static_assert(sizeof(int) == 4, "MPI_INT expected to be 32-bit");
+#endif
+
+    MPI_Gatherv((void*)labels_local.data(), local_n, mpi_i32,
+        rank == 0 ? (void*)labels_global.data() : nullptr,
+        rank == 0 ? counts.data() : nullptr,
+        rank == 0 ? displs.data() : nullptr,
+        mpi_i32,
+        0, comm);
+
+    // ---- optionally gather cell IDs ----
+    bool have_ids = (!cell_ids_local.empty() && (int)cell_ids_local.size() == local_n);
+
+    std::vector<int32_t> id_len_global;
+    std::vector<char>    id_chars_global;
+
+    if (have_ids) {
+        // local lengths
+        std::vector<int32_t> id_len_local((size_t)local_n);
+        long long local_bytes_ll = 0;
+        for (int i = 0; i < local_n; ++i) {
+            id_len_local[(size_t)i] = (int32_t)cell_ids_local[(size_t)i].size();
+            local_bytes_ll += (long long)id_len_local[(size_t)i];
+        }
+        if (local_bytes_ll > (long long)std::numeric_limits<int>::max()) {
+            throw std::runtime_error("Local cell-id bytes exceed INT_MAX; chunking needed.");
+        }
+        const int local_bytes = (int)local_bytes_ll;
+
+        // pack local chars
+        std::vector<char> id_chars_local((size_t)local_bytes);
+        int pos = 0;
+        for (int i = 0; i < local_n; ++i) {
+            const std::string& s = cell_ids_local[(size_t)i];
+            if (!s.empty()) {
+                std::memcpy(id_chars_local.data() + pos, s.data(), s.size());
+            }
+            pos += (int)s.size();
+        }
+
+        // gather lengths (same counts/displs as labels)
+        if (rank == 0) id_len_global.resize((size_t)total_n);
+#ifdef MPI_INT32_T
+        MPI_Datatype mpi_i32_len = MPI_INT32_T;
+#else
+        MPI_Datatype mpi_i32_len = MPI_INT;
+#endif
+        MPI_Gatherv((void*)id_len_local.data(), local_n, mpi_i32_len,
+            rank == 0 ? (void*)id_len_global.data() : nullptr,
+            rank == 0 ? counts.data() : nullptr,
+            rank == 0 ? displs.data() : nullptr,
+            mpi_i32_len,
+            0, comm);
+
+        // gather byte counts
+        std::vector<int> byte_counts, byte_displs;
+        int total_bytes = 0;
+        if (rank == 0) {
+            byte_counts.resize(world);
+            byte_displs.resize(world);
+        }
+
+        MPI_Gather((void*)&local_bytes, 1, MPI_INT,
+            rank == 0 ? byte_counts.data() : nullptr, 1, MPI_INT,
+            0, comm);
+
+        if (rank == 0) {
+            byte_displs[0] = 0;
+            for (int r = 1; r < world; ++r) byte_displs[r] = byte_displs[r - 1] + byte_counts[r - 1];
+            total_bytes = byte_displs[world - 1] + byte_counts[world - 1];
+            id_chars_global.resize((size_t)total_bytes);
+        }
+
+        MPI_Gatherv((void*)id_chars_local.data(), local_bytes, MPI_CHAR,
+            rank == 0 ? (void*)id_chars_global.data() : nullptr,
+            rank == 0 ? byte_counts.data() : nullptr,
+            rank == 0 ? byte_displs.data() : nullptr,
+            MPI_CHAR,
+            0, comm);
+    }
+
+    // ---- rank0 write CSV ----
+    if (rank == 0) {
+        std::ofstream out(out_csv_path, std::ios::out);
+        if (!out) throw std::runtime_error("Failed to open output file: " + out_csv_path);
+
+        if (have_ids) out << "cell_id,label\n";
+        else          out << "cell_index,label\n";
+
+        if (have_ids) {
+            // reconstruct strings from length+char stream
+            long long pos = 0;
+            for (int i = 0; i < total_n; ++i) {
+                const int32_t L = id_len_global[(size_t)i];
+                std::string id;
+                if (L > 0) {
+                    id.assign(id_chars_global.data() + pos, id_chars_global.data() + pos + L);
+                }
+                pos += (long long)L;
+                out << id << "," << labels_global[(size_t)i] << "\n";
+            }
+        }
+        else {
+            for (int i = 0; i < total_n; ++i) {
+                out << i << "," << labels_global[(size_t)i] << "\n";
+            }
+        }
+
+        out.close();
+        std::cout << "[rank 0] Wrote labels to: " << out_csv_path
+            << " (N=" << total_n << ")\n";
+    }
+}
 
 int main(int argc, char** argv) {
     MPI_Init(&argc, &argv);
@@ -334,8 +489,73 @@ int main(int argc, char** argv) {
         }
         
         
+        // Our knn builder stores Jaccard similarity already, so graphs_are_distance=false.
+        const bool graphs_are_distance = false;
 
+        // Recommended: keep graph sparsity similar to original kNN graphs
+        const int prune_topk = 30;
 
+        auto G_mix = rarecell::mix_three_knn_graphs_local(
+            G_gini, G_fano, G_palma,
+            cfg.gini_balance, cfg.fano_balance, cfg.palma_balance,
+            graphs_are_distance,
+            prune_topk,
+            /*drop_self_loops=*/true
+        );
+
+        if (rank == 0) {
+            std::cout << "Mixed graph built (local nnz rank0)=" << (long long)G_mix.indices.size()
+                << " | weights: gini=" << cfg.gini_balance
+                << " fano=" << cfg.fano_balance
+                << " palma=" << cfg.palma_balance
+                << " | prune_topk=" << prune_topk
+                << "\n";
+        }
+
+        rarecell::LeidenParams lp;
+        lp.is_distance = false;         // your graph stores similarity weights (Jaccard sim), not distances
+        lp.assume_symmetric = false;     // if your kNN builder already symmetrized (union/max)
+        lp.force_symmetrize = true;    // not needed when assume_symmetric=true
+        lp.resolution = 1.0;
+        lp.beta = 0.01;
+        lp.n_iterations = -1;
+        lp.seed = 0;
+        lp.verbose = (rank == 0);
+
+        auto labels_local = rarecell::leiden_cluster_mpi(G_mix, MPI_COMM_WORLD, lp);
+
+        if (rank == 0) {
+            std::cout << "[rank 0] received labels_local size=" << labels_local.size()
+                << " (this is only rank0 slice)\n";
+        }
+
+        std::string out_csv = cfg.output_folder + "/leiden_labels.csv";
+
+        gather_and_write_labels_csv(MPI_COMM_WORLD, labels_local, R.cell_ids_local, out_csv);
+        
+        rarecell::RefineParams rp;
+        rp.use_arctan = false;       // start false
+        rp.n_pcs = 20;
+        rp.k_knn = 20;
+        rp.resolution = 1.5;
+        rp.mix_alpha = 0.7;
+        rp.min_child_size_abs = 10;
+        rp.min_child_size_frac_parent = 0.005;
+        rp.seed = 12277;
+        rp.verbose = (rank == 0);
+
+        auto labels_refined_local = rarecell::refine_pca_cosine_mpi(
+            MPI_COMM_WORLD,
+            outs.X_local_filtered,          // CSRMatrixF32 (cells x genes) after filtering
+            outs.gene_names_filtered,              // vector<string>
+            labels_local,              // int32 major labels local
+            panels.palma_genes,          // vector<string>
+            &G_mix,                    // global candidate graph
+            rp
+        );
+        std::string out_csv_refined = cfg.output_folder + "/leiden_labels_refined.csv";
+
+        gather_and_write_labels_csv(MPI_COMM_WORLD, labels_refined_local, R.cell_ids_local, out_csv_refined);
     }
     catch (const std::exception& e) {
         std::cerr << "[rank " << rank << "] Error: " << e.what() << "\n";

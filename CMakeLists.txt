@@ -44,6 +44,9 @@ find_package(CUDAToolkit REQUIRED)
 # JSON (header-only, via vcpkg: nlohmann-json)
 find_package(nlohmann_json CONFIG REQUIRED)
 
+find_package(igraph CONFIG REQUIRED)
+
+
 # ----------------------------------------
 # Include dirs (project)
 # ----------------------------------------
@@ -135,12 +138,17 @@ add_library(rarecell_metrics
   src/cuda/metrics_cuda.cu
   src/graph/binarize.cpp
   src/graph/knn.cpp
+  src/graph/mix.cpp
+  src/cluster/leiden.cpp
+  src/refine/refine_pca_cosine.cpp
 )
 target_include_directories(rarecell_metrics PUBLIC src)
 target_link_libraries(rarecell_metrics PUBLIC MPI::MPI_CXX rarecell_filter)
 
 # Link metrics into the app
 target_link_libraries(rarecell_reader PUBLIC rarecell_metrics)
+
+target_link_libraries(rarecell_metrics PRIVATE igraph::igraph)
 
 
 # ----------------------------------------

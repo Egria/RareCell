@@ -71,6 +71,11 @@ namespace rarecell {
         set_if_number(j, "fano_nfeatures", cfg.fano_nfeatures);
         set_if_number(j, "palma_nfeatures", cfg.palma_nfeatures);
 
+        // Graph mix weights
+        set_if_number(j, "gini_balance", cfg.gini_balance);
+        set_if_number(j, "fano_balance", cfg.fano_balance);
+        set_if_number(j, "palma_balance", cfg.palma_balance);
+
         // Strings
         set_if(j, "preprocess_method", cfg.preprocess_method);
         set_if(j, "output_folder", cfg.output_folder);
